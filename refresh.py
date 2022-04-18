@@ -51,6 +51,7 @@ GET_MORE_INFO = [
     5592987513,  # VL-Küfa
     5592955318,  # Reil-Küfa
     1931764008,  # Afamia Eck
+    9572703189,  # Bowls King
     3658458714,  # Kornliebchen
     3590210914,  # Kumara
     1034449861,  # Ökoase
@@ -62,7 +63,6 @@ GET_MORE_INFO = [
     1538147900,  # Le Feu
     2932869816,  # Yasmin
     261692804,   # Espitas
-    6380783117,  # roots
     1038238639,  # Enchilada
     2874464836,  # Mextreme
     252918375,   # Alte Apotheke
@@ -80,8 +80,9 @@ GET_MORE_INFO = [
     2791600302,  # Hotdog King
     3052291182,  # Seoul Kulinarisch
     1037236274,  # Anh Asia
-    164756646,   # Nice
-    8773861578,  # JUICY
+    164756646,   # SPICY
+    8773861578,  # JUICY - Reileck
+    9140808707,  # JUICY - LuWu
     7388445891,  # City Döner
     578246181,   # Mo’s Daniel’s
     2876264915,  # Sao Mai
@@ -109,6 +110,7 @@ GET_MORE_INFO = [
     8018875351,  # Restaurant Ruine
     2068490774,  # The One
     5868832962,  # Tandoori Steakhaus
+    8932643632,  # Alik GELATO
     1185202509,  # Harzmensa
     8018837433,  # Mensa Neuwerk
     304682735,   # Mensa Franckesche Stiftungen
@@ -136,6 +138,7 @@ GET_MORE_INFO = [
     3724402925,  # I LOVE Icecream
     2715257424,  # Sonnendeck
     2065237786,  # Naturell
+    8867577091,  # nobelsüß
     2051567009,  # ÖkoHalle
     1943778686,  # BioRio
     1902279166,  # Biomarkt am Reileck
@@ -235,13 +238,12 @@ def get_osm_data():
     # Define export format
     overpass_query = "?data=[out:json];"
 
-    # # Define the area - Mitteldeutschland
-    overpass_query += "area['de:amtlicher_gemeindeschluessel'='14']->.sachsen;"\
-                      "area['de:amtlicher_gemeindeschluessel'='15']->.sachsenanhalt;"\
-                      "area['de:amtlicher_gemeindeschluessel'='16']->.thueringen;"\
-                      "(.sachsen;.sachsenanhalt;.thueringen;)->.searchArea;"
+    # # Define the area - Halle + Saalekreis
+    overpass_query += "area['de:amtlicher_gemeindeschluessel'='15002000']->.halle;"\
+                      "area['de:amtlicher_gemeindeschluessel'='15088']->.saalekreis;"\
+                      "(.halle;.saalekreis;)->.searchArea;"
     # # Collect the vegan nodes, ways and relations
-    overpass_query += "nwr(area.searchArea)['diet:vegan'~'yes|only|limited'];"
+    overpass_query += "(nwr(area.searchArea)['diet:vegan'~'yes|only|limited'];nwr(area.searchArea)['vegan'~'yes|only|friendly'];);"
     # # End of the query and use "out center" to reduce the geometry of ways and relations to a single coordinate
     overpass_query += "out+center;"
 
@@ -359,11 +361,20 @@ def write_data(data):
         if tags.get("diet:vegan", "") == "only":
             place_obj["properties"]["category"] = "vegan_only"
             n_vegan_only += 1
+        if tags.get("vegan", "") == "only":
+            place_obj["properties"]["category"] = "vegan_only"
+            n_vegan_only += 1
         elif (tags.get("diet:vegetarian", "") == "only"
               and tags.get("diet:vegan", "") == "yes"):
             place_obj["properties"]["category"] = "vegetarian_only"
             n_vegetarian_only += 1
         elif tags.get("diet:vegan", "") == "yes":
+            place_obj["properties"]["category"] = "vegan_friendly"
+            n_vegan_friendly += 1
+        elif tags.get("vegan", "") == "yes":
+            place_obj["properties"]["category"] = "vegan_friendly"
+            n_vegan_friendly += 1
+        elif tags.get("vegan", "") == "friendly":
             place_obj["properties"]["category"] = "vegan_friendly"
             n_vegan_friendly += 1
         elif tags.get("diet:vegan", "") == "limited":

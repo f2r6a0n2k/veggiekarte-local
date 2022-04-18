@@ -39662,6 +39662,7 @@
   },
   {
    "date": "2021-12-11",
+<<<<<<< HEAD
    "n_vegan_friendly": 14203,
    "n_vegan_hairdresser_friendly": 23,
    "n_vegan_hairdresser_only": 0,
@@ -40893,6 +40894,40 @@
    "n_vegan_limited": 42,
    "n_vegan_only": 29,
    "n_vegetarian_only": 22
+=======
+   "n_vegan_friendly": 436,
+   "n_vegan_limited": 34,
+   "n_vegan_only": 26,
+   "n_vegetarian_only": 20
+  },
+  {
+   "date": "2021-12-16",
+   "n_vegan_friendly": 436,
+   "n_vegan_limited": 34,
+   "n_vegan_only": 26,
+   "n_vegetarian_only": 20
+  },
+  {
+   "date": "2022-03-12",
+   "n_vegan_friendly": 98,
+   "n_vegan_limited": 22,
+   "n_vegan_only": 3,
+   "n_vegetarian_only": 10
+  },
+  {
+   "date": "2022-04-03",
+   "n_vegan_friendly": 116,
+   "n_vegan_limited": 22,
+   "n_vegan_only": 4,
+   "n_vegetarian_only": 10
+  },
+  {
+   "date": "2022-04-05",
+   "n_vegan_friendly": 116,
+   "n_vegan_limited": 22,
+   "n_vegan_only": 4,
+   "n_vegetarian_only": 10
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   }
  ]
 }

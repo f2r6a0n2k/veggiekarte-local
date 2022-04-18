@@ -1,9 +1,14 @@
 {
+<<<<<<< HEAD
  "_timestamp": "2022-04-18 17:12:43.362512",
+=======
+ "_timestamp": "2022-04-05 23:50:41.688554",
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
  "features": [
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.7549339,
      51.0643978
     ],
@@ -177,6 +182,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      12.0612878,
      51.2974302
     ],
@@ -203,6 +210,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.4131078,
      51.3307441
     ],
@@ -859,6 +867,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9610093,
      51.4823823
     ],
@@ -884,6 +894,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      11.5795059,
      50.9365189
     ],
@@ -1104,6 +1115,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9616488,
      51.4738785
     ],
@@ -1129,6 +1142,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3271749,
      51.334836
     ],
@@ -1179,6 +1193,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9793227,
      51.48059
     ],
@@ -1207,6 +1223,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3745645,
      51.338119
     ],
@@ -1259,6 +1276,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9795031,
      51.4734745
     ],
@@ -1283,6 +1302,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      11.5865209,
      50.931895
     ],
@@ -1856,6 +1876,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9943745,
      51.4835257
     ],
@@ -1881,6 +1903,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.2421838,
      51.821996
     ],
@@ -2029,6 +2052,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      12.0124661,
      51.4801977
     ],
@@ -2055,6 +2080,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3731288,
      51.3179697
     ],
@@ -2165,12 +2191,17 @@
     "coordinates": [
      13.6293319,
      51.1068684
+=======
+     11.9700403,
+     51.4767897
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 499485234,
+    "_id": 499450663,
     "_type": "node",
+<<<<<<< HEAD
     "addr_city": "Radebeul",
     "addr_postcode": "01445",
     "addr_street": "Bahnhofstraße 8a",
@@ -2222,105 +2253,18 @@
     "_id": 501578983,
     "_type": "node",
     "addr_city": "Leipzig",
+=======
+    "addr_city": "Halle (Saale)",
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "addr_country": "DE",
-    "addr_postcode": "04109",
-    "addr_street": "Hainstraße 4",
+    "addr_postcode": "06110",
+    "addr_street": "Steinweg 46",
     "category": "vegan_friendly",
-    "contact_phone": "+49 341 9939653",
-    "cuisine": "asian",
-    "icon": "fast_food",
-    "name": "Asia Bistro & Supermarkt",
-    "opening_hours": "Mo-Sa 09:30-20:00",
-    "symbol": "🍔"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     13.735843,
-     51.0449437
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 506178240,
-    "_type": "node",
-    "addr_city": "Dresden",
-    "addr_postcode": "01069",
-    "addr_street": "Prager Straße 15",
-    "category": "vegan_friendly",
-    "contact_phone": "+49 351 850950",
-    "cuisine": "coffee_shop",
-    "icon": "cafe",
-    "name": "Starbucks",
-    "opening_hours": "Mo-Th 07:30-21:00; Fr 07:30-21:30; Sa 08:30-21:30; Su 09:00-20:00; Dec 24 07:30-17:00; Dec 25,Dec 26 10:00-17:00; Dec 31 07:30-19:00; Jan 01 10:00-20:00",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     10.9153784,
-     50.6855767
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 553502740,
-    "_type": "node",
-    "addr_city": "Ilmenau",
-    "addr_postcode": "98693",
-    "addr_street": "Kirchplatz 3",
-    "category": "vegan_friendly",
-    "icon": "restaurant",
-    "name": "Altmarktschenke",
-    "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-14:00",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.9210526,
-     50.8318763
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 567092119,
-    "_type": "node",
-    "category": "vegan_friendly",
-    "cuisine": "sausage",
-    "icon": "fast_food",
-    "name": "Curry & Co.",
-    "opening_hours": "Mo-Fr 10:00-17:00",
-    "symbol": "🍔"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.6278049,
-     52.1211321
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 577203596,
-    "_type": "node",
-    "addr_city": "Magdeburg",
-    "addr_postcode": "39104",
-    "addr_street": "Breiter Weg 232a",
-    "category": "vegan_friendly",
-    "contact_website": "https://kartell-magdeburg.de",
-    "icon": "bar",
-    "name": "Kartell",
-    "opening_hours": "Mo-Th 17:00-01:00; Fr, Sa 17:00-03:00; Su 14:00-23:00",
-    "symbol": "🍸"
+    "contact_phone": "+49 3 45 6 86 52 22",
+    "icon": "hairdresser",
+    "name": "Haarwerk",
+    "shop": "hairdresser",
+    "symbol": "💇"
    },
    "type": "Feature"
   },
@@ -2354,6 +2298,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3732585,
      51.3331237
     ],
@@ -2728,6 +2673,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9677199,
      51.4844933
     ],
@@ -2756,6 +2703,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3106325,
      51.3492798
     ],
@@ -3236,6 +3184,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9698115,
      51.4871679
     ],
@@ -3262,6 +3212,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      10.3435698,
      50.7545906
     ],
@@ -3475,6 +3426,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9649977,
      51.4832003
     ],
@@ -3681,19 +3634,20 @@
   {
    "geometry": {
     "coordinates": [
-     13.8503986,
-     51.0615967
+     11.997409,
+     51.4902085
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 1080610089,
+    "_id": 1103698374,
     "_type": "node",
-    "addr_city": "Dresden",
+    "addr_city": "Halle (Saale)",
     "addr_country": "DE",
-    "addr_postcode": "01324",
-    "addr_street": "Bautzner Landstraße 138",
+    "addr_postcode": "06116",
+    "addr_street": "Fritz-Hoffmann-Straße 1",
     "category": "vegan_friendly",
+<<<<<<< HEAD
     "contact_phone": "+49 351 2641555",
     "contact_website": "https://www.dominos.de/kaufhaus/de-dresdenbhlau-34124",
     "cuisine": "pizza",
@@ -3745,12 +3699,15 @@
     "addr_postcode": "06116",
     "addr_street": "Fritz-Hoffmann-Straße 1",
     "category": "vegan_friendly",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "contact_phone": "+49 345 5 60 87 73",
     "contact_website": "https://www.webadresse.de/friseure-halle-moebius-jeannette",
     "icon": "hairdresser",
     "name": "Coiffeur Jeannette Möbius – Der nette Friseur",
     "shop": "hairdresser",
     "symbol": "💇"
+<<<<<<< HEAD
    },
    "type": "Feature"
   },
@@ -3849,6 +3806,8 @@
     "name": "Vanille & Zimt",
     "opening_hours": "Mo-Su 12:00-18:00",
     "symbol": "☕"
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
    },
    "type": "Feature"
   },
@@ -3881,6 +3840,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      11.5827186,
      50.9282952
     ],
@@ -4176,6 +4136,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9708291,
      51.4826808
     ],
@@ -4202,6 +4164,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.7410058,
      51.0653708
     ],
@@ -4296,6 +4259,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9708458,
      51.4877831
     ],
@@ -4318,31 +4283,6 @@
     "name": "Le Feu",
     "opening_hours": "Su-Th 17:00-22:00; Fr-Sa 17:00-23:00",
     "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     13.7610268,
-     51.0272515
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 1555864660,
-    "_type": "node",
-    "addr_city": "Dresden",
-    "addr_country": "DE",
-    "addr_postcode": "01219",
-    "addr_street": "Lannerstraße 3",
-    "category": "vegan_friendly",
-    "contact_website": "https://www.avari-pizzaservice.de",
-    "cuisine": "indian;pizza;kebab",
-    "icon": "fast_food",
-    "name": "Avari Pizza Service",
-    "opening_hours": "PH,Mo-Su 11:00-23:00",
-    "symbol": "🍔"
    },
    "type": "Feature"
   },
@@ -4376,6 +4316,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.728301,
      51.0839491
     ],
@@ -4474,6 +4415,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9671873,
      51.4882466
     ],
@@ -4501,6 +4444,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.4026678,
      51.3387156
     ],
@@ -4661,6 +4605,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9680151,
      51.4852757
     ],
@@ -4683,30 +4629,6 @@
     "name": "House Of India",
     "opening_hours": "Mo-Sa 11:30-14:30,17:30-23:30; PH,Su 11:30-23:30",
     "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.2270969,
-     51.8392712
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 1692156220,
-    "_type": "node",
-    "addr_city": "Dessau-Roßlau",
-    "addr_postcode": "06846",
-    "addr_street": "Gropiusallee 38",
-    "category": "vegan_friendly",
-    "contact_phone": "+49 340 6508444",
-    "contact_website": "https://www.bauhaus-dessau.de/cafe-bistro-im-bauhaus.html",
-    "icon": "cafe",
-    "name": "Café-Bistro im Bauhaus",
-    "opening_hours": "Mo- Sa 08:00-24:00; Su 08:00-18:00",
-    "symbol": "☕"
    },
    "type": "Feature"
   },
@@ -4738,6 +4660,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3610671,
      51.3421904
     ],
@@ -4855,6 +4778,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9717887,
      51.4803019
     ],
@@ -4873,82 +4798,6 @@
     "icon": "restaurant",
     "more_info": true,
     "name": "Indian Masala",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     13.7506771,
-     51.067127
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 1785349737,
-    "_type": "node",
-    "addr_city": "Dresden",
-    "addr_country": "DE",
-    "addr_postcode": "01099",
-    "addr_street": "Louisenstraße 24",
-    "category": "vegan_friendly",
-    "contact_website": "http://www.tanteleuk.de",
-    "cuisine": "cake;coffee_shop",
-    "icon": "cafe",
-    "name": "Tanteleuk",
-    "opening_hours": "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 10:00-18:00",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.1467559,
-     52.8575346
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 1792934291,
-    "_type": "node",
-    "addr_city": "Salzwedel",
-    "addr_postcode": "29410",
-    "addr_street": "Karl-Marx-Straße 26",
-    "category": "vegan_friendly",
-    "contact_facebook": "https://www.facebook.com/D%C3%96NER-Beisser-337417766447227",
-    "contact_phone": "+49 174 8786894",
-    "cuisine": "kebab",
-    "icon": "fast_food",
-    "name": "Döner Beisser",
-    "opening_hours": "Mo-Sa 10:00-21:00; Su 12:00-21:00",
-    "symbol": "🍔"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.3763926,
-     51.3156303
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 1804169898,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_country": "DE",
-    "addr_postcode": "04275",
-    "addr_street": "Kantstraße 30",
-    "category": "vegan_friendly",
-    "contact_phone": "+49 341 3082570",
-    "contact_website": "https://www.shinto-sushi.de",
-    "cuisine": "sushi",
-    "icon": "restaurant",
-    "name": "Shinto Sushi",
-    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa,Su,PH 14:00-22:00",
     "symbol": "🍽️"
    },
    "type": "Feature"
@@ -4976,6 +4825,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.1107959,
      51.1209917
     ],
@@ -5097,6 +4947,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.965024,
      51.4959637
     ],
@@ -5116,32 +4968,6 @@
     "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:00-13:00; PH off",
     "shop": "convenience",
     "symbol": "🏪"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     10.9766339,
-     51.7147165
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 1905574954,
-    "_type": "node",
-    "addr_city": "Thale",
-    "addr_country": "DE",
-    "addr_postcode": "06502",
-    "addr_street": "Ortsstraße 26",
-    "category": "vegan_friendly",
-    "contact_email": "hotel@luppbode.eu",
-    "contact_phone": "+49 39456 56751",
-    "contact_website": "https://www.luppbode.de/restaurant",
-    "cuisine": "german",
-    "icon": "restaurant",
-    "name": "Restaurant Zur Luppbode",
-    "symbol": "🍽️"
    },
    "type": "Feature"
   },
@@ -5202,31 +5028,6 @@
   {
    "geometry": {
     "coordinates": [
-     12.4062996,
-     51.3366949
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 1953511394,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_postcode": "04317",
-    "addr_street": "Kippenbergstraße 28",
-    "category": "vegan_only",
-    "contact_facebook": "https://www.facebook.com/Zu-Sp%C3%A4t-310145699093440",
-    "contact_phone": "+49 160 99516466",
-    "cuisine": "hot_dog;cake",
-    "icon": "fast_food",
-    "name": "Bistro ”Zu Spät”",
-    "opening_hours": "Do-Sa 16:00-21:00; So 14:00-20:00",
-    "symbol": "🍔"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      11.9664836,
      51.4956736
     ],
@@ -5250,6 +5051,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.375055,
      51.343189
     ],
@@ -5374,6 +5176,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9783821,
      51.4893464
     ],
@@ -5426,6 +5230,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.8363662,
      51.0265773
     ],
@@ -5503,6 +5308,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9655845,
      51.4899957
     ],
@@ -5528,6 +5335,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.4000562,
      51.4017037
     ],
@@ -5580,6 +5388,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9715581,
      51.4840227
     ],
@@ -5635,18 +5445,19 @@
   {
    "geometry": {
     "coordinates": [
-     13.7492332,
-     51.0740634
+     11.9840217,
+     51.4272949
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 2076719397,
+    "_id": 2284590295,
     "_type": "node",
-    "addr_city": "Dresden",
-    "addr_postcode": "01097",
-    "addr_street": "Rudolf-Leonhard-Straße 32",
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06132",
+    "addr_street": "Merseburger Straße 434",
     "category": "vegan_friendly",
+<<<<<<< HEAD
     "contact_email": "kontakt@der-dicke-schmidt.de",
     "contact_phone": "+49 157 52363641",
     "contact_website": "http://www.der-dicke-schmidt.de",
@@ -5936,12 +5747,15 @@
     "addr_postcode": "06132",
     "addr_street": "Merseburger Straße 434",
     "category": "vegan_friendly",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "contact_phone": "+49 3 45 7 75 87 96",
     "icon": "hairdresser",
     "name": "Hairstyling",
     "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-12:00",
     "shop": "hairdresser",
     "symbol": "💇"
+<<<<<<< HEAD
    },
    "type": "Feature"
   },
@@ -5993,6 +5807,8 @@
     "name": "Domino's",
     "opening_hours": "Mo-Th 11:00-22:00; Fr-Su 11:00-23:00",
     "symbol": "🍕"
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
    },
    "type": "Feature"
   },
@@ -6026,31 +5842,6 @@
   {
    "geometry": {
     "coordinates": [
-     12.3729716,
-     51.3088791
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 2325557423,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_country": "DE",
-    "addr_postcode": "04277",
-    "addr_street": "Wolfgang-Heinze-Straße 12a",
-    "category": "vegan_only",
-    "contact_website": "http://dein-deli.de",
-    "cuisine": "burger",
-    "icon": "fast_food",
-    "name": "Dein Deli",
-    "opening_hours": "Tu-Su,PH 12:00-22:00; Mo off",
-    "symbol": "🍔"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      11.9665468,
      51.4969
     ],
@@ -6070,30 +5861,6 @@
     "name": "Cup der guten Hoffnung",
     "opening_hours": "Mo-Fr 12:00-18:30",
     "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.3270214,
-     50.9781323
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 2368420771,
-    "_type": "node",
-    "addr_city": "Weimar",
-    "addr_postcode": "99423",
-    "addr_street": "Brauhausgasse 22",
-    "category": "vegan_friendly",
-    "contact_facebook": "https://www.facebook.com/El-Burrito-175041452530515",
-    "cuisine": "mexican",
-    "icon": "restaurant",
-    "name": "El Burrito",
-    "opening_hours": "We-Mo 17:00-22:00; Tu off",
-    "symbol": "🍽️"
    },
    "type": "Feature"
   },
@@ -6120,29 +5887,6 @@
     "name": "Freddy Fresh",
     "opening_hours": "Mo-Su 10:30-22:00",
     "symbol": "🍕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.3811076,
-     51.3449528
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 2413048665,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_postcode": "04109",
-    "addr_street": "Willy-Brandt-Platz 5",
-    "category": "vegan_friendly",
-    "cuisine": "asian",
-    "icon": "fast_food",
-    "name": "asiahung",
-    "opening_hours": "PH,Mo-Su 10:00-21:00",
-    "symbol": "🍔"
    },
    "type": "Feature"
   },
@@ -6177,6 +5921,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.7487025,
      51.0627143
     ],
@@ -6489,6 +6234,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9665075,
      51.4858657
     ],
@@ -6518,6 +6265,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3203633,
      51.3440128
     ],
@@ -6591,6 +6339,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9205143,
      51.4793644
     ],
@@ -6619,14 +6369,15 @@
   {
    "geometry": {
     "coordinates": [
-     11.5892155,
-     50.9302723
+     11.966528,
+     51.4721139
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 2540120085,
+    "_id": 2567892341,
     "_type": "node",
+<<<<<<< HEAD
     "addr_city": "Jena",
     "addr_postcode": "07743",
     "addr_street": "Zwätzengasse 19",
@@ -6673,10 +6424,14 @@
     "_id": 2560974076,
     "_type": "node",
     "addr_city": "Erfurt",
+=======
+    "addr_city": "Halle (Saale)",
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "addr_country": "DE",
-    "addr_postcode": "99084",
-    "addr_street": "Andreasstraße 35",
+    "addr_postcode": "06110",
+    "addr_street": "Wörmlitzer Straße 107",
     "category": "vegan_friendly",
+<<<<<<< HEAD
     "icon": "supermarket",
     "name": "organics",
     "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-18:00",
@@ -6701,11 +6456,14 @@
     "addr_postcode": "06110",
     "addr_street": "Wörmlitzer Straße 107",
     "category": "vegan_friendly",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "contact_phone": "+49 3 45 13 18 99 98",
     "icon": "hairdresser",
     "name": "Classio Hair & Beauty Lounge",
     "shop": "hairdresser",
     "symbol": "💇"
+<<<<<<< HEAD
    },
    "type": "Feature"
   },
@@ -6839,6 +6597,8 @@
     "name": "Uno Pizza",
     "opening_hours": "Mo-Su 11:00-24:00",
     "symbol": "🍕"
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
    },
    "type": "Feature"
   },
@@ -6873,24 +6633,22 @@
   {
    "geometry": {
     "coordinates": [
-     12.3730618,
-     51.3083691
+     11.967557,
+     51.4822903
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 2733272356,
+    "_id": 2749602895,
     "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_country": "DE",
-    "addr_postcode": "04277",
-    "addr_street": "Wolfgang-Heinze-Straße 20",
     "category": "vegan_friendly",
-    "icon": "maki_star-stroked",
-    "name": "Lazy Dog",
-    "opening_hours": "Mo-Fr 11:00-01:00; Sa 13:00-01:00; Su,PH 13:00-00:00",
-    "shop": "yes",
-    "symbol": ""
+    "contact_phone": "+49 345 58217707",
+    "contact_website": "https://www.koegel-der-friseur.de",
+    "icon": "hairdresser",
+    "name": "Koegel der Friseur",
+    "opening_hours": "Mo 13:00-18:00; Tu,Th-Fr 08:30-19:00; We 09:30-19:00; Sa 08:00-13:30",
+    "shop": "hairdresser",
+    "symbol": "💇"
    },
    "type": "Feature"
   },
@@ -7020,53 +6778,6 @@
   {
    "geometry": {
     "coordinates": [
-     12.4046668,
-     51.3291852
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 2794442902,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_postcode": "04317",
-    "addr_street": "Riebeckstraße 21",
-    "category": "vegan_friendly",
-    "cuisine": "lebanese;kebab",
-    "icon": "fast_food",
-    "name": "Bistro de Libanon",
-    "opening_hours": "Mo-Fr 11:00-22:00, Sa,Su,PH 12:00-22:00",
-    "symbol": "🍔"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     13.8276584,
-     51.0058304
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 2818811601,
-    "_type": "node",
-    "addr_city": "Dresden",
-    "addr_postcode": "01257",
-    "addr_street": "Stephensonstraße 18",
-    "category": "vegan_friendly",
-    "contact_facebook": "https://www.facebook.com/ARBIL-Kebap-Haus-431417460352781",
-    "cuisine": "turkish;kebab;pizza",
-    "icon": "restaurant",
-    "name": "Arbil Kebap Haus",
-    "opening_hours": "Mo-Fr 11:00-22:00; Sa,Su,PH 12:00-22:00",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      11.9665041,
      51.4962613
     ],
@@ -7089,30 +6800,6 @@
     "name": "Mextreme",
     "opening_hours": "Mo-Th 17:00-23:00; Fr-Sa 17:00-21:00; Su 17:00-22:00",
     "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.3383429,
-     51.3336832
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 2876144684,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_postcode": "04229",
-    "addr_street": "Zschochersche Straße 12",
-    "category": "vegan_friendly",
-    "contact_website": "http://annalinde-leipzig.de",
-    "cuisine": "regional",
-    "icon": "cafe",
-    "name": "Annalinde Gemeinschaftsgarten",
-    "opening_hours": "Fr 16:00-19:00; Sa 14:00-19:00",
-    "symbol": "☕"
    },
    "type": "Feature"
   },
@@ -7146,29 +6833,6 @@
   {
    "geometry": {
     "coordinates": [
-     12.930733,
-     50.8148941
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 2910563062,
-    "_type": "node",
-    "addr_city": "Chemnitz",
-    "addr_postcode": "09126",
-    "addr_street": "Reichenhainer Straße 55",
-    "category": "vegan_friendly",
-    "contact_website": "https://www.swcz.de/de/verpflegung/mensenundcafeterieninchemnitz/cafeteria-reichenhainer-strasse-55",
-    "icon": "cafe",
-    "name": "Cafeteria Reichenhainer Straße 55",
-    "opening_hours": "off",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      11.9701334,
      51.475815
     ],
@@ -7189,77 +6853,6 @@
     "name": "Yasmin",
     "opening_hours": "Mo-Su 11:00-22:00",
     "symbol": "🍔"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     13.7467701,
-     51.0728296
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 2936056631,
-    "_type": "node",
-    "addr_city": "Dresden",
-    "addr_country": "DE",
-    "addr_postcode": "01097",
-    "addr_street": "Hechtstraße 12",
-    "category": "vegan_friendly",
-    "contact_website": "http://www.pizzastube-dd.de",
-    "cuisine": "pizza",
-    "icon": "maki_restaurant-pizza",
-    "name": "Pizzastube",
-    "opening_hours": "Tu,Fr-Su 12:00-22:00; Mo,We,Th 17:00-22:00",
-    "symbol": "🍕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.0335815,
-     50.9783179
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 2953921285,
-    "_type": "node",
-    "addr_city": "Erfurt",
-    "addr_postcode": "99084",
-    "addr_street": "Meienbergstraße 23",
-    "category": "vegan_friendly",
-    "contact_phone": "+49 361 6027925",
-    "cuisine": "chinese",
-    "icon": "restaurant",
-    "name": "H&N Chinawok",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.0210709,
-     50.9856598
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 2965778833,
-    "_type": "node",
-    "addr_city": "Erfurt",
-    "addr_postcode": "99089",
-    "addr_street": "Auenstraße 73",
-    "category": "vegan_friendly",
-    "cuisine": "pizza",
-    "icon": "maki_restaurant-pizza",
-    "name": "Le Grazie",
-    "opening_hours": "Mo-Fr 11:00-14:00,17:00-21:00; Sa,Su 11:00-21:00",
-    "symbol": "🍕"
    },
    "type": "Feature"
   },
@@ -7296,31 +6889,6 @@
   {
    "geometry": {
     "coordinates": [
-     12.381212,
-     51.3446521
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 2986715921,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_country": "DE",
-    "addr_postcode": "04109",
-    "addr_street": "Willy-Brandt-Platz 7",
-    "category": "vegan_friendly",
-    "contact_website": "http://www.dunkin-donuts.de",
-    "cuisine": "donut;coffee_shop",
-    "icon": "fast_food",
-    "name": "Dunkin' Donuts",
-    "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00",
-    "symbol": "🍔"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      12.177683,
      51.344328
     ],
@@ -7344,6 +6912,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      11.0275173,
      50.9778404
     ],
@@ -7388,6 +6957,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9663396,
      51.4942999
     ],
@@ -7409,6 +6980,7 @@
     "more_info": true,
     "name": "Seoul Kulinarisch",
     "opening_hours": "Mo-Sa 11:00-15:00, 17:00-20:00",
+<<<<<<< HEAD
     "symbol": "🍽️"
    },
    "type": "Feature"
@@ -7451,6 +7023,8 @@
     "contact_website": "https://www.heidespa.de",
     "icon": "restaurant",
     "name": "Restaurant Lebensart",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "symbol": "🍽️"
    },
    "type": "Feature"
@@ -7458,48 +7032,23 @@
   {
    "geometry": {
     "coordinates": [
-     13.7509025,
-     51.067067
+     11.9840561,
+     51.462897
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 3098339408,
+    "_id": 3067537371,
     "_type": "node",
-    "addr_city": "Dresden",
-    "addr_postcode": "01099",
-    "addr_street": "Louisenstraße 26",
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06112",
+    "addr_street": "Merseburger Straße 137",
     "category": "vegan_friendly",
-    "cuisine": "russian",
-    "icon": "restaurant",
-    "name": "AljonuschkA",
-    "opening_hours": "open",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.3264804,
-     50.9784224
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 3121754128,
-    "_type": "node",
-    "addr_city": "Weimar",
-    "addr_country": "DE",
-    "addr_postcode": "99423",
-    "addr_street": "Schützengasse 8",
-    "category": "vegan_friendly",
-    "contact_phone": "+49 3641 3474797",
-    "cuisine": "sausage",
-    "icon": "fast_food",
-    "name": "Fritz Mitte",
-    "opening_hours": "Mo-Su 11:00-22:00",
-    "symbol": "🍔"
+    "contact_phone": "+49 3 45 4 44 24 18",
+    "icon": "hairdresser",
+    "name": "hairStyling",
+    "shop": "hairdresser",
+    "symbol": "💇"
    },
    "type": "Feature"
   },
@@ -7532,6 +7081,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.2457805,
      51.8354078
     ],
@@ -7582,6 +7132,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9658855,
      51.4954925
     ],
@@ -7610,6 +7162,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.750132,
      51.070489
     ],
@@ -7659,6 +7212,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      12.1780337,
      51.3439014
     ],
@@ -7685,6 +7240,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      11.035351,
      50.977791
     ],
@@ -7707,17 +7263,22 @@
     "coordinates": [
      11.0318649,
      50.9744778
+=======
+     11.9710809,
+     51.4629014
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 3256204808,
+    "_id": 3299234039,
     "_type": "node",
-    "addr_city": "Erfurt",
+    "addr_city": "Halle (Saale)",
     "addr_country": "DE",
-    "addr_postcode": "99084",
-    "addr_street": "Anger 33",
+    "addr_postcode": "06110",
+    "addr_street": "Huttenstraße 49",
     "category": "vegan_friendly",
+<<<<<<< HEAD
     "contact_phone": "+49 361 21922070",
     "contact_website": "https://www.peterpane.de/gemuetliche-restaurants/euer-peter-pane-erfurt",
     "cuisine": "burger",
@@ -7770,11 +7331,14 @@
     "addr_postcode": "06110",
     "addr_street": "Huttenstraße 49",
     "category": "vegan_friendly",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "contact_phone": "+49 3 45 4 44 91 20",
     "icon": "hairdresser",
     "name": "HairStyling",
     "shop": "hairdresser",
     "symbol": "💇"
+<<<<<<< HEAD
    },
    "type": "Feature"
   },
@@ -7853,6 +7417,8 @@
     "name": "Beat’n’Burger",
     "opening_hours": "PH,Mo-Su 16:00-20:00",
     "symbol": "🍔"
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
    },
    "type": "Feature"
   },
@@ -7912,197 +7478,6 @@
   {
    "geometry": {
     "coordinates": [
-     11.5822137,
-     50.9193427
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 3399656859,
-    "_type": "node",
-    "addr_city": "Jena",
-    "addr_postcode": "07745",
-    "addr_street": "Burgauer Weg 1a",
-    "category": "vegetarian_only",
-    "contact_facebook": "https://www.facebook.com/Sal%C3%BC-Genuss-am-Fluss-282160542229083",
-    "contact_instagram": "https://www.instagram.com/salue_genuss_am_fluss",
-    "contact_phone": "+49 3641 5342120",
-    "contact_website": "https://www.salue-im-paradies.de",
-    "icon": "cafe",
-    "name": "SALÜ - Genuss am Fluss",
-    "opening_hours": "Mo-Sa 11:30-18:00; Su 9:00-18:00",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.4042322,
-     51.3327532
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 3407712101,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_postcode": "04317",
-    "addr_street": "Albert-Schweitzer-Straße 2",
-    "category": "vegan_friendly",
-    "contact_website": "http://www.espressozackzack.de",
-    "icon": "cafe",
-    "name": "Espresso Zack Zack",
-    "opening_hours": "Mo-Fr 08:00-18:00, Sa,Su 09:00-18:00",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.3277266,
-     50.9802571
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 3500703413,
-    "_type": "node",
-    "addr_city": "Weimar",
-    "addr_postcode": "99423",
-    "addr_street": "Rittergasse 21",
-    "category": "vegan_friendly",
-    "contact_website": "http://www.franzundwilli.de",
-    "cuisine": "burger",
-    "icon": "restaurant",
-    "name": "Franz & Willi",
-    "opening_hours": "Tu-Th,Su 12:00-21:00; Fr 12:00-22:00; Sa 16:00-22:00",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.4039557,
-     51.3287265
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 3501538218,
-    "_type": "node",
-    "category": "vegan_friendly",
-    "icon": "ice_cream",
-    "name": "Kleine Eisträumerei",
-    "opening_hours": "Mo-Su 14:00-18:00",
-    "symbol": "🍨"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.3966427,
-     51.3331872
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 3517905043,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_postcode": "04317",
-    "addr_street": "Johannisallee 7",
-    "category": "vegan_friendly",
-    "contact_phone": "+49 341 35055591",
-    "contact_website": "https://www.restaurant-greensoul.de",
-    "icon": "restaurant",
-    "name": "GreenSoul",
-    "opening_hours": "Mo-Fr 11:30-22:00; Sa 17:30-22:00; Su off",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.8912029,
-     50.800799
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 3522482955,
-    "_type": "node",
-    "addr_city": "Chemnitz",
-    "addr_postcode": "09120",
-    "addr_street": "Paul-Bertz-Straße 22",
-    "category": "vegan_friendly",
-    "cuisine": "pizza",
-    "icon": "maki_restaurant-pizza",
-    "name": "Domino's",
-    "opening_hours": "11:00-23:00",
-    "symbol": "🍕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.5827034,
-     50.9244439
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 3526744792,
-    "_type": "node",
-    "addr_city": "Jena",
-    "addr_postcode": "07745",
-    "addr_street": "Schillergäßchen 5",
-    "category": "vegan_friendly",
-    "contact_email": "gruenowski@gruenowski.de",
-    "contact_phone": "+49 3641 446620",
-    "contact_website": "http://www.gruenowski.de",
-    "cuisine": "italian",
-    "icon": "cafe",
-    "name": "Café Grünowski",
-    "opening_hours": "Mo-Su 12:00+",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.5031442,
-     50.7100437
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 3551878149,
-    "_type": "node",
-    "addr_city": "Zwickau",
-    "addr_country": "DE",
-    "addr_postcode": "08056",
-    "addr_street": "Uhdestraße 23",
-    "category": "vegan_friendly",
-    "contact_phone": "+49 375 44068886",
-    "contact_website": "https://www.hallopizza.de",
-    "cuisine": "pizza",
-    "icon": "maki_restaurant-pizza",
-    "name": "Tele Pizza",
-    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa,Su 12:00-22:00",
-    "symbol": "🍕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      11.9690337,
      51.4912396
     ],
@@ -8132,6 +7507,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      11.3275266,
      50.9799598
     ],
@@ -8205,6 +7581,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9674203,
      51.4864335
     ],
@@ -8233,6 +7611,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.4033458,
      51.3462484
     ],
@@ -8306,6 +7685,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9682453,
      51.4872726
     ],
@@ -8336,6 +7717,7 @@
     "coordinates": [
      11.9780186,
      51.4800165
+<<<<<<< HEAD
     ],
     "type": "Point"
    },
@@ -8361,13 +7743,20 @@
     "coordinates": [
      11.5849972,
      50.9259638
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 3733309925,
+    "_id": 3731334025,
     "_type": "node",
+    "addr_city": "Halle (Saale)",
+    "addr_country": "DE",
+    "addr_postcode": "06108",
+    "addr_street": "Martinstraße 8",
     "category": "vegan_friendly",
+<<<<<<< HEAD
     "icon": "fast_food",
     "name": "Fritz Mitte",
     "opening_hours": "Mo-Su 11:00-23:00",
@@ -8445,6 +7834,14 @@
     "name": "Waldgasthaus Sonnenhof",
     "opening_hours": "Apr-Oct: Sa,Su,PH 11:00-18:00; Nov-Mar: Sa,Su,PH 11:00-17:00",
     "symbol": "🍽️"
+=======
+    "contact_phone": "+49 345 2021817",
+    "contact_website": "https://www.haarstudio-steffi.de",
+    "icon": "hairdresser",
+    "name": "Steffi`s Haarstudio",
+    "shop": "hairdresser",
+    "symbol": "💇"
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
    },
    "type": "Feature"
   },
@@ -8529,6 +7926,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3427868,
      51.32502
     ],
@@ -8618,6 +8016,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9924674,
      51.3549709
     ],
@@ -8672,6 +8072,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3757062,
      51.3433783
     ],
@@ -8696,10 +8097,15 @@
     "coordinates": [
      12.3733427,
      51.3304027
+=======
+     11.9337137,
+     51.5006059
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     ],
     "type": "Point"
    },
    "properties": {
+<<<<<<< HEAD
     "_id": 3955648926,
     "_type": "node",
     "addr_city": "Leipzig",
@@ -8958,41 +8364,15 @@
    },
    "properties": {
     "_id": 4036431410,
+=======
+    "_id": 4228270047,
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "_type": "node",
     "addr_city": "Halle (Saale)",
-    "addr_country": "DE",
-    "addr_postcode": "06108",
-    "addr_street": "Ludwig-Wucherer-Straße 29",
-    "category": "vegan_only",
-    "contact_email": "vegs.halle@gmx.de",
-    "contact_facebook": "https://www.facebook.com/vegs.halle",
-    "contact_instagram": "https://www.instagram.com/vegs.halle",
-    "contact_phone": "+49 176 20796828",
-    "contact_website": "https://www.vegs-halle.de",
-    "cuisine": "wraps",
-    "icon": "fast_food",
-    "more_info": true,
-    "name": "Vegs",
-    "opening_hours": "Mo-Fr 12:00-20:00; Sa,Su,PH off",
-    "symbol": "🍔"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     13.7340681,
-     51.0342249
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 4140863802,
-    "_type": "node",
-    "addr_city": "Dresden",
-    "addr_postcode": "01069",
-    "addr_street": "Reichenbachstraße 1",
+    "addr_postcode": "06120",
+    "addr_street": "Heideallee 2",
     "category": "vegan_friendly",
+<<<<<<< HEAD
     "contact_website": "https://www.studentenwerk-dresden.de/mensen/details-mensa-reichenbachstrasse.html",
     "cuisine": "asian",
     "icon": "fast_food",
@@ -9091,11 +8471,14 @@
     "addr_postcode": "06120",
     "addr_street": "Heideallee 2",
     "category": "vegan_friendly",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "contact_phone": "+49 3 45 68 30 07 33",
     "icon": "hairdresser",
     "name": "Classic Hair & Beauty Lounge",
     "shop": "hairdresser",
     "symbol": "💇"
+<<<<<<< HEAD
    },
    "type": "Feature"
   },
@@ -9379,6 +8762,8 @@
     "name": "Cafe Herzstück",
     "opening_hours": "Mo 14:00-18:00; We-Fr 11:00-18:00; Sa,Su 09:00-18:00",
     "symbol": "☕"
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
    },
    "type": "Feature"
   },
@@ -9478,6 +8863,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      11.0309129,
      50.9754983
     ],
@@ -9684,6 +9070,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9555747,
      51.4977698
     ],
@@ -9707,6 +9095,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3305667,
      51.3239094
     ],
@@ -9775,6 +9164,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9664563,
      51.4849077
     ],
@@ -9828,6 +9219,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3360297,
      51.3363049
     ],
@@ -9951,6 +9343,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9330975,
      51.4994094
     ],
@@ -10107,6 +9501,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.8293659,
      51.0005023
     ],
@@ -10204,6 +9599,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9619723,
      51.5011975
     ],
@@ -10283,6 +9680,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.7506614,
      51.0710647
     ],
@@ -10449,6 +9847,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9993352,
      51.3558738
     ],
@@ -10476,6 +9876,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      11.0268862,
      50.9779123
     ],
@@ -10504,69 +9905,26 @@
     "coordinates": [
      12.4067962,
      51.3515358
+=======
+     11.9661272,
+     51.4866954
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 5140190741,
+    "_id": 5240927115,
     "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_postcode": "04347",
-    "addr_street": "Paul-Heyse-Straße 1",
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06108",
+    "addr_street": "Kleine Ulrichstraße 18",
     "category": "vegan_friendly",
-    "contact_email": "mail@cafetrago.de",
-    "contact_website": "http://cafetrago.de",
-    "icon": "cafe",
-    "name": "TRAGO",
-    "opening_hours": "Sa, Su 10:00-18:00; Mo-Fr 10:00-18:00",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     10.9211677,
-     50.6845667
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 5145495672,
-    "_type": "node",
-    "addr_city": "Ilmenau",
-    "addr_country": "DE",
-    "addr_postcode": "98693",
-    "addr_street": "Bahnhofstraße 26",
-    "category": "vegan_friendly",
-    "icon": "cafe",
-    "name": "Schwalbennest",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.3280981,
-     51.3734048
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 5182675089,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_postcode": "04159",
-    "addr_street": "Georg-Schumann-Straße 294",
-    "category": "vegan_friendly",
-    "contact_phone": "+4934199997593",
-    "contact_website": "https://pizza-revolution-leipzig.com",
-    "cuisine": "pizza;italian;italian_pizza",
-    "icon": "maki_restaurant-pizza",
-    "name": "Pizza Revolution Gohlis",
-    "opening_hours": "Mo-Th 16:00-1:30; Fr-Su, PH 16:00-2:30",
-    "symbol": "🍕"
+    "contact_phone": "+49 345 6850105",
+    "icon": "hairdresser",
+    "name": "HairCult",
+    "opening_hours": "Mo 09:00-17:00, Tu,We 10:00-19:00, Th 10:00-18:00, Fr 08:00-19:00, Sa 09:00-14:00",
+    "shop": "hairdresser",
+    "symbol": "💇"
    },
    "type": "Feature"
   },
@@ -10623,6 +9981,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      11.0261121,
      50.9899182
     ],
@@ -10901,6 +10260,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9688803,
      51.4737109
     ],
@@ -10929,6 +10290,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.7552343,
      51.0659018
     ],
@@ -11043,6 +10405,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9573124,
      51.5002376
     ],
@@ -11097,6 +10461,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3292246,
      51.3196803
     ],
@@ -11373,6 +10738,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9701787,
      51.473713
     ],
@@ -11392,134 +10759,6 @@
     "more_info": true,
     "name": "Tandoori Steakhaus",
     "opening_hours": "Mo-Su 11:30-14:30, 17:30-23:00",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.6362106,
-     52.1290651
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 5875915084,
-    "_type": "node",
-    "addr_city": "Magdeburg",
-    "addr_country": "DE",
-    "addr_postcode": "39104",
-    "addr_street": "Breiter Weg 19b",
-    "category": "vegan_only",
-    "contact_facebook": "https://www.facebook.com/vegan.Crops",
-    "contact_phone": "+49 391 99045043",
-    "icon": "restaurant",
-    "name": "Crops - Vegane Küche",
-    "opening_hours": "Mo-Sa 11:00-20:00",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.3850879,
-     51.337857
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 5894646253,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_postcode": "04103",
-    "addr_street": "Nürnberger Straße 1",
-    "category": "vegan_only",
-    "contact_email": "reservierungleipzig@katzentempel.de",
-    "contact_phone": "+49 341 25690874",
-    "contact_website": "https://www.katzentempel.de/standorte/leipzig",
-    "icon": "cafe",
-    "name": "Cafe Katzentempel",
-    "opening_hours": "Mo-Fr 11:00-20:00; Sa 10:00-20:00; Su 10:00-18:00",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.1401245,
-     51.7877223
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 5896848985,
-    "_type": "node",
-    "addr_city": "Quedlinburg",
-    "addr_country": "DE",
-    "addr_postcode": "06484",
-    "addr_street": "Wordgasse 4",
-    "category": "vegan_friendly",
-    "contact_email": "quedlinburg@lefeu.de",
-    "contact_phone": "+49 3946 9078040",
-    "contact_website": "http://www.lefeu.de/le-feu-quedlinburg",
-    "cuisine": "french;tarte_flambee",
-    "icon": "restaurant",
-    "name": "Le Feu",
-    "opening_hours": "Mo-Su 12:00-23:00",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     10.7917292,
-     51.8363655
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 5922128240,
-    "_type": "node",
-    "addr_city": "Wernigerode",
-    "addr_country": "DE",
-    "addr_postcode": "38855",
-    "addr_street": "Breite Straße 97",
-    "category": "vegan_friendly",
-    "contact_phone": "+49 3943 5397170",
-    "contact_website": "http://hotelaltebrennerei.de/Restaurant-Harzer-Schnitzelstuebchen",
-    "cuisine": "german",
-    "icon": "restaurant",
-    "name": "Restaurant Harzer Schnitzelstübchen",
-    "opening_hours": "Fr,Sa 12:00-22:00; Su-Th 12:00-21:00",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.5915239,
-     50.9287134
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 5940902942,
-    "_type": "node",
-    "addr_city": "Jena",
-    "addr_postcode": "07743",
-    "addr_street": "Steinweg 3-4",
-    "category": "vegan_only",
-    "contact_facebook": "https://www.facebook.com/vegan.devinos",
-    "contact_phone": "+49 3641 2218683",
-    "contact_website": "https://devinos.de",
-    "icon": "restaurant",
-    "name": "de Vino's",
-    "opening_hours": "We 12:00-18:00; Th 12:00-20:00; Fr 12:00-22:00; Sa 15:00-22:00",
     "symbol": "🍽️"
    },
    "type": "Feature"
@@ -11555,99 +10794,6 @@
   {
    "geometry": {
     "coordinates": [
-     13.7524914,
-     51.0639658
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 5965813195,
-    "_type": "node",
-    "addr_city": "Dresden",
-    "addr_postcode": "01099",
-    "addr_street": "Rothenburger Straße 14",
-    "category": "vegan_friendly",
-    "contact_email": "fiete.behnersen@gmail.com",
-    "contact_facebook": "https://www.facebook.com/cafe.vcake",
-    "contact_phone": "+49 1577 7316057",
-    "contact_website": "http://www.v-cake.de",
-    "cuisine": "brunch;cake",
-    "icon": "cafe",
-    "name": "Fiete Behnersens v-cake",
-    "opening_hours": "Tu-Th 11:00-18:00, Fr 11:00 - 19:00, Sa 10:00 - 19:00, Su 10:00 - 18:00",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.0352548,
-     50.9753116
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 6005900750,
-    "_type": "node",
-    "addr_city": "Erfurt",
-    "addr_postcode": "99084",
-    "addr_street": "Bahnhofstraße 4a",
-    "category": "vegan_friendly",
-    "icon": "supermarket",
-    "name": "Alnatura",
-    "opening_hours": "Mo-Sa 08:00-20:00",
-    "shop": "supermarket",
-    "symbol": "🏪"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     10.4147181,
-     50.5682396
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 6013092074,
-    "_type": "node",
-    "category": "vegan_friendly",
-    "cuisine": "syrian",
-    "icon": "cafe",
-    "name": "Arabesque",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.4550948,
-     51.7546905
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 6021587113,
-    "_type": "node",
-    "addr_city": "Aschersleben",
-    "addr_postcode": "06449",
-    "addr_street": "Hinter dem Turm 31-32",
-    "category": "vegan_limited",
-    "contact_phone": "+49 3473 2174334",
-    "icon": "supermarket",
-    "name": "Naturkostladen ”Besser Leben”",
-    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-13:00",
-    "shop": "supermarket",
-    "symbol": "🏪"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      11.9655416,
      51.4956871
     ],
@@ -11676,6 +10822,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3224004,
      51.3228904
     ],
@@ -11975,6 +11122,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9628071,
      51.4969861
     ],
@@ -11999,6 +11148,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3210621,
      51.3437466
     ],
@@ -12116,6 +11266,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9610697,
      51.4849106
     ],
@@ -12140,6 +11292,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.7269809,
      51.0821961
     ],
@@ -12278,6 +11431,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9872248,
      51.4778531
     ],
@@ -12320,73 +11475,6 @@
     "more_info": true,
     "name": "Pirashki",
     "opening_hours": "Mo-Su 15:00-20:00",
-    "symbol": "☕"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     13.9507459,
-     51.0622022
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 6914529778,
-    "_type": "node",
-    "addr_city": "Dresden",
-    "addr_postcode": "01328",
-    "addr_street": "Ernest-Rutherford-Straße 114",
-    "category": "vegan_friendly",
-    "icon": "restaurant",
-    "name": "Betriebsrestaurant Helmholtz-Zentrum",
-    "opening_hours": "Mo-Fr 11:00-13:30",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     12.3348922,
-     51.3356329
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 6983182407,
-    "_type": "node",
-    "category": "vegan_friendly",
-    "contact_website": "https://buntspechtleipzig.myportfolio.com",
-    "icon": "restaurant",
-    "name": "Buntspecht",
-    "opening_hours": "Tu-Sa 19:00+",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.6329828,
-     52.1241844
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 6984946387,
-    "_type": "node",
-    "addr_city": "Magdeburg",
-    "addr_country": "DE",
-    "addr_postcode": "39104",
-    "addr_street": "Danzstraße 11",
-    "category": "vegan_friendly",
-    "contact_website": "https://www.danz11.de",
-    "cuisine": "cake;ice_cream",
-    "icon": "cafe",
-    "name": "Danz11 Eis und Kuchen",
-    "opening_hours": "12:00-18:00",
     "symbol": "☕"
    },
    "type": "Feature"
@@ -12443,30 +11531,6 @@
   {
    "geometry": {
     "coordinates": [
-     12.4124227,
-     51.3450634
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 7055418094,
-    "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_postcode": "04315",
-    "addr_street": "Eisenbahnstraße 128",
-    "category": "vegan_friendly",
-    "contact_website": "https://vleischerei.de",
-    "cuisine": "burger;kebab",
-    "icon": "fast_food",
-    "name": "Vleischerei",
-    "opening_hours": "Tu-Th 16:00-22:00; Fr-Su 12:00-22:00",
-    "symbol": "🍔"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      11.9661048,
      51.4282383
     ],
@@ -12492,6 +11556,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3367592,
      51.3293505
     ],
@@ -12737,6 +11802,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9653379,
      51.4961558
     ],
@@ -12762,6 +11829,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.7443472,
      51.0614415
     ],
@@ -12854,6 +11922,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9657115,
      51.4958187
     ],
@@ -12881,14 +11951,15 @@
   {
    "geometry": {
     "coordinates": [
-     11.5845215,
-     50.9248962
+     11.9711935,
+     51.4918365
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 7419420582,
+    "_id": 7598042193,
     "_type": "node",
+<<<<<<< HEAD
     "addr_city": "Jena",
     "addr_postcode": "07743",
     "addr_street": "Neugasse 17",
@@ -12960,6 +12031,8 @@
    "properties": {
     "_id": 7598042193,
     "_type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "addr_city": "Halle (Saale)",
     "addr_postcode": "06108",
     "addr_street": "Puschkinstraße 16",
@@ -12973,6 +12046,7 @@
     "opening_hours": "nach Anfrage",
     "shop": "tattoo",
     "symbol": ""
+<<<<<<< HEAD
    },
    "type": "Feature"
   },
@@ -13106,6 +12180,8 @@
     "name": "KOK van KOK",
     "opening_hours": "Mo-Th 11:30-21:00; Fr 11:30-22:00; PH,Sa 11:00-22:00; Su 11:00-20:00",
     "symbol": "🍽️"
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
    },
    "type": "Feature"
   },
@@ -13189,6 +12265,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.2251135,
      51.81582
     ],
@@ -13336,6 +12413,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9681005,
      51.4873071
     ],
@@ -13363,6 +12442,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.7394826,
      51.0514333
     ],
@@ -13411,6 +12491,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9787619,
      51.4886836
     ],
@@ -13437,6 +12519,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.3296083,
      51.3345206
     ],
@@ -13506,6 +12589,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9660347,
      51.4963212
     ],
@@ -13648,6 +12733,7 @@
     "contact_instagram": "https://www.instagram.com/nobelsuess",
     "contact_website": "https://nobelsuess.eu",
     "icon": "maki_star-stroked",
+    "more_info": true,
     "name": "nobelsüß",
     "opening_hours": "Mo-Fr 11:00-17:00; Sa 10:00-16:00",
     "shop": "pastry",
@@ -13674,33 +12760,9 @@
     "contact_phone": "+49 171 3651504",
     "contact_website": "http://www.alikgelato.de",
     "icon": "ice_cream",
+    "more_info": true,
     "name": "Alik Gelato",
     "symbol": "🍨"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     11.5835177,
-     50.9295912
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 9016290315,
-    "_type": "node",
-    "addr_city": "Jena",
-    "addr_country": "DE",
-    "addr_postcode": "07743",
-    "addr_street": "Johannisplatz 21",
-    "category": "vegan_friendly",
-    "contact_facebook": "https://www.facebook.com/FritzMitte",
-    "cuisine": "friture",
-    "icon": "fast_food",
-    "name": "Fritz Mitte",
-    "opening_hours": "Mo-Th 10:30-23:00, Fr-Sa 10:30-01:00, Su 12:00-23:00",
-    "symbol": "🍔"
    },
    "type": "Feature"
   },
@@ -13733,6 +12795,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      11.5884412,
      50.928549
     ],
@@ -13801,6 +12864,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9715732,
      51.4929765
     ],
@@ -13819,6 +12884,7 @@
     "contact_website": "https://www.juicy-halle.de",
     "cuisine": "donut;bagel",
     "icon": "cafe",
+    "more_info": true,
     "name": "JUICY",
     "opening_hours": "Mo-Su 10:00-21:00",
     "symbol": "☕"
@@ -13877,49 +12943,228 @@
   {
    "geometry": {
     "coordinates": [
-     10.6693801,
-     51.7621484
+     11.8766096,
+     51.5051126
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 9237641858,
+    "_id": 9261469165,
     "_type": "node",
-    "addr_city": "Wernigerode",
-    "addr_postcode": "38879",
-    "addr_street": "Alte Dorfstraße 10",
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06120",
+    "addr_street": "Röntgenstraße 12",
     "category": "vegan_friendly",
-    "contact_phone": "+49 39455 588340",
-    "contact_website": "https://montevino.pizza",
-    "cuisine": "italian",
-    "icon": "restaurant",
-    "name": "Montevino",
-    "opening_hours": "open",
-    "symbol": "🍽️"
+    "contact_phone": "+49 3 45 5 51 17 83",
+    "icon": "hairdresser",
+    "name": "Classic Hair & Beauty Lounge",
+    "shop": "hairdresser",
+    "symbol": "💇"
    },
    "type": "Feature"
   },
   {
    "geometry": {
     "coordinates": [
-     12.4776915,
-     51.3486368
+     11.9784849,
+     51.452762
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 9241585222,
+    "_id": 9261473487,
     "_type": "node",
-    "addr_city": "Leipzig",
-    "addr_country": "DE",
-    "addr_postcode": "04329",
-    "addr_street": "Paunsdorfer Allee 1",
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06130",
+    "addr_street": "Am Breiten Pfuhl 44",
     "category": "vegan_friendly",
-    "contact_website": "https://www.dunkin-donuts.de",
-    "cuisine": "donut;coffee_shop",
+    "contact_phone": "+49 3 45 1 22 16 35",
+    "icon": "hairdresser",
+    "name": "Amme Cornelia Friseursalon",
+    "shop": "hairdresser",
+    "symbol": "💇"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     11.9589856,
+     51.4813732
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_id": 9261675833,
+    "_type": "node",
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06108",
+    "addr_street": "Mansfelder Straße 15",
+    "category": "vegan_friendly",
+    "contact_phone": "+49 3 45 2 03 68 71",
+    "icon": "hairdresser",
+    "name": "Friseursalon Andrea Hinze",
+    "shop": "hairdresser",
+    "symbol": "💇"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     11.9153805,
+     51.4759688
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_id": 9261788412,
+    "_type": "node",
+    "category": "vegan_friendly",
+    "contact_phone": "+49 3 45 6 80 15 25",
+    "icon": "hairdresser",
+    "name": "Haarstudio Heike",
+    "shop": "hairdresser",
+    "symbol": "💇"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     11.9585373,
+     51.4478008
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_id": 9261789811,
+    "_type": "node",
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06128",
+    "addr_street": "Südstadtring 90",
+    "category": "vegan_friendly",
+    "contact_phone": "+49 3 45 1 21 14 60",
+    "icon": "hairdresser",
+    "name": "Frisör Klier GmbH Kaufland",
+    "shop": "hairdresser",
+    "symbol": "💇"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     11.965624,
+     51.4601221
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_id": 9261825700,
+    "_type": "node",
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06110",
+    "addr_street": "Finkenweg 35",
+    "category": "vegan_friendly",
+    "contact_email": "schnittstelle-derfriseur@gmx.de",
+    "contact_facebook": "https://www.facebook.com/SchnittstelleHalle",
+    "contact_phone": "+49 3 45 1 22 73 99",
+    "contact_website": "https://www.facebook.com/SchnittstelleHalle",
+    "icon": "hairdresser",
+    "name": "Schnittstelle Friseurfachgeschäft",
+    "shop": "hairdresser",
+    "symbol": "💇"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     11.926354,
+     51.46979
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_id": 9261839535,
+    "_type": "node",
+    "category": "vegan_friendly",
+    "contact_phone": "+49 3 45 6 90 27 87",
+    "icon": "hairdresser",
+    "name": "Scorna und Schenk GbR",
+    "shop": "hairdresser",
+    "symbol": "💇"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     11.9795456,
+     51.4695174
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_id": 9261848291,
+    "_type": "node",
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06110",
+    "addr_street": "Turmstraße 35",
+    "category": "vegan_friendly",
+    "contact_phone": "+49 3 45 4 72 17 77",
+    "icon": "hairdresser",
+    "name": "Stilart Ihr Friseur",
+    "shop": "hairdresser",
+    "symbol": "💇"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     11.9659886,
+     51.4951686
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_id": 9343768547,
+    "_type": "node",
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06114",
+    "addr_street": "Händelstraße 38",
+    "category": "vegan_friendly",
+    "contact_phone": "+49 345 530130",
+    "contact_website": "https://www.dominos.de/kaufhaus/de-hallereileck-33831",
+    "cuisine": "pizza",
+    "icon": "maki_restaurant-pizza",
+    "name": "Domino's",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "symbol": "🍕"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     11.9695742,
+     51.4843564
+    ],
+    "type": "Point"
+   },
+   "properties": {
+    "_id": 9572703189,
+    "_type": "node",
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06108",
+    "addr_street": "Große Ulrichtsraße 58",
+    "category": "vegan_limited",
+    "contact_instagram": "https://www.instagram.com/bowlsking",
     "icon": "fast_food",
-    "name": "Dunkin' Donuts",
-    "opening_hours": "Mo-Sa 09:30-20:00; Su off",
+    "more_info": true,
+    "name": "Bowls King",
     "symbol": "🍔"
    },
    "type": "Feature"
@@ -13927,14 +13172,15 @@
   {
    "geometry": {
     "coordinates": [
-     12.3641872,
-     51.3629733
+     11.9716439,
+     51.4929347
     ],
     "type": "Point"
    },
    "properties": {
-    "_id": 9250985635,
+    "_id": 9572733602,
     "_type": "node",
+<<<<<<< HEAD
     "addr_city": "Leipzig",
     "addr_postcode": "04155",
     "addr_street": "Georg-Schumann-Straße 86",
@@ -14176,6 +13422,21 @@
     "name": "Green Bistro",
     "opening_hours": "Mo-Sa 10:30-23:00; So 11:30-22:00; PH 11:30-22:00",
     "symbol": "🍔"
+=======
+    "addr_city": "Halle (Saale)",
+    "addr_postcode": "06108",
+    "addr_street": "Ludwig-Wucherer-Straße 62",
+    "category": "vegetarian_only",
+    "contact_email": "info@eisdeal.de",
+    "contact_facebook": "https://www.facebook.com/eisdeal.de",
+    "contact_instagram": "https://www.instagram.com/eisdealerhalle",
+    "contact_website": "https://www.eisdeal.de",
+    "cuisine": "ice_cream",
+    "icon": "ice_cream",
+    "name": "Eis-Dealer",
+    "opening_hours": "12:00-18:00",
+    "symbol": "🍨"
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
    },
    "type": "Feature"
   },
@@ -14392,61 +13653,6 @@
   {
    "geometry": {
     "coordinates": [
-     13.7515623,
-     51.0418528
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 23030130,
-    "_type": "way",
-    "addr_city": "Dresden",
-    "addr_country": "DE",
-    "addr_postcode": "01069",
-    "addr_street": "Lennéstraße 11",
-    "category": "vegan_friendly",
-    "contact_email": "info@torwirtschaft-dresden.de",
-    "contact_facebook": "https://www.facebook.com/Torwirtschaft-der-Biergarten-f%C3%BCr-alle-Dynamofans-168677023169963",
-    "contact_phone": "+49 351 4595200",
-    "contact_website": "https://www.torwirtschaft-dresden.de/torwirtschaft",
-    "cuisine": "german;international;regional;tarte_flambee",
-    "icon": "restaurant",
-    "name": "Torwirtschaft",
-    "opening_hours": "11:00+",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     13.7522292,
-     51.042529
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 23030131,
-    "_type": "way",
-    "addr_city": "Dresden",
-    "addr_country": "DE",
-    "addr_postcode": "01069",
-    "addr_street": "Lennéstraße 9",
-    "category": "vegan_friendly",
-    "contact_email": "info@wachstube-dresden.de",
-    "contact_facebook": "https://www.facebook.com/Wachstube-im-Gro%C3%9Fen-Garten-Dresden-144180698984577",
-    "contact_phone": "+49 351 4466975",
-    "contact_website": "https://www.torwirtschaft-dresden.de/wachstube/restaurant.php",
-    "icon": "maki_star-stroked",
-    "name": "Wachstube",
-    "opening_hours": "11:00+",
-    "symbol": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      11.9688723,
      51.4869272
     ],
@@ -14471,6 +13677,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.379286,
      51.3393846
     ],
@@ -14518,6 +13725,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9981454,
      51.479946
     ],
@@ -14545,6 +13754,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      10.9175182,
      50.6847192
     ],
@@ -14620,6 +13830,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9542164,
      51.4574074
     ],
@@ -14673,6 +13885,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.4045574,
      51.3289622
     ],
@@ -14721,6 +13934,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9671125,
      51.531814
     ],
@@ -14748,6 +13963,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      10.7853991,
      51.833683
     ],
@@ -14846,6 +14062,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.974495,
      51.4932826
     ],
@@ -14874,6 +14092,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.8047391,
      50.8005355
     ],
@@ -14946,6 +14165,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9658099,
      51.4884586
     ],
@@ -14966,35 +14187,6 @@
     "icon": "restaurant",
     "name": "Palmyra",
     "opening_hours": "Mo-Su 11:30-14:30,17:00-24:00",
-    "symbol": "🍽️"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     14.5218888,
-     51.0806991
-    ],
-    "type": "Point"
-   },
-   "properties": {
-    "_id": 130121283,
-    "_type": "way",
-    "addr_city": "Beiersdorf",
-    "addr_country": "DE",
-    "addr_postcode": "02736",
-    "addr_street": "Bielebohstraße 18",
-    "category": "vegan_friendly",
-    "contact_email": "info@bieleboh.de",
-    "contact_facebook": "https://www.facebook.com/Bieleboh",
-    "contact_instagram": "https://www.instagram.com/bieleboh",
-    "contact_phone": "+49 35872 18914",
-    "contact_website": "https://www.bieleboh.de/gastronomie/restaurant",
-    "cuisine": "international",
-    "icon": "restaurant",
-    "name": "Naturresort Bieleboh",
-    "opening_hours": "We-Su,PH 11:00-22:00; Mo,Tu off",
     "symbol": "🍽️"
    },
    "type": "Feature"
@@ -15023,6 +14215,7 @@
     "more_info": true,
     "name": "Mönchshof",
     "opening_hours": "Tu-Sa 11:00-23:00; Su 11:00-15:00; Mo off",
+<<<<<<< HEAD
     "symbol": "🍽️"
    },
    "type": "Feature"
@@ -15195,6 +14388,8 @@
     "icon": "restaurant",
     "name": "Chinarestaurant Pau Dang Van",
     "opening_hours": "PH,Tu-Su 11:30-15:00,17:00-22:00",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "symbol": "🍽️"
    },
    "type": "Feature"
@@ -15360,6 +14555,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.5912633,
      50.6802683
     ],
@@ -15558,6 +14754,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9842788,
      51.2814207
     ],
@@ -15610,6 +14808,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      12.1878054,
      51.608474
     ],
@@ -15682,6 +14881,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9713475,
      51.4779569
     ],
@@ -15708,6 +14909,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.7577552,
      51.0643659
     ],
@@ -15782,6 +14984,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.973747,
      51.4893364
     ],
@@ -15808,6 +15012,7 @@
   {
    "geometry": {
     "coordinates": [
+<<<<<<< HEAD
      13.7327725,
      51.0401673
     ],
@@ -15923,6 +15128,8 @@
   {
    "geometry": {
     "coordinates": [
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
      11.9659804,
      51.4973787
     ],
@@ -15946,6 +15153,7 @@
     "symbol": "🍽️"
    },
    "type": "Feature"
+<<<<<<< HEAD
   },
   {
    "geometry": {
@@ -16179,6 +15387,8 @@
     "symbol": "🍔"
    },
    "type": "Feature"
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   }
  ],
  "type": "FeatureCollection"

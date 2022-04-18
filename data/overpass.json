@@ -2,14 +2,20 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57.1 74a55df1",
   "osm3s": {
+<<<<<<< HEAD
     "timestamp_osm_base": "2022-04-18T15:10:47Z",
     "timestamp_areas_base": "2022-04-18T14:47:24Z",
+=======
+    "timestamp_osm_base": "2022-04-05T21:48:53Z",
+    "timestamp_areas_base": "2022-04-05T20:08:39Z",
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
 
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 67356279,
   "lat": 51.0643978,
   "lon": 13.7549339,
@@ -193,6 +199,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 252918375,
   "lat": 51.2974302,
   "lon": 12.0612878,
@@ -214,6 +222,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 253686370,
   "lat": 51.3307441,
   "lon": 12.4131078,
@@ -845,6 +854,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 282473154,
   "lat": 51.4823823,
   "lon": 11.9610093,
@@ -865,6 +876,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 286684578,
   "lat": 50.9365189,
   "lon": 11.5795059,
@@ -1093,6 +1105,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 302835320,
   "lat": 51.4738785,
   "lon": 11.9616488,
@@ -1120,6 +1134,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 305777138,
   "lat": 51.3348360,
   "lon": 12.3271749,
@@ -1163,6 +1178,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 309747715,
   "lat": 51.4805900,
   "lon": 11.9793227,
@@ -1189,6 +1206,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 310218383,
   "lat": 51.3381190,
   "lon": 12.3745645,
@@ -1240,6 +1258,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 311197346,
   "lat": 51.4734745,
   "lon": 11.9795031,
@@ -1262,6 +1282,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 313415076,
   "lat": 50.9318950,
   "lon": 11.5865209,
@@ -1829,6 +1850,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 413572583,
   "lat": 51.4835257,
   "lon": 11.9943745,
@@ -1852,6 +1875,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 415194043,
   "lat": 51.8219960,
   "lon": 12.2421838,
@@ -1982,6 +2006,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 471978357,
   "lat": 51.4801977,
   "lon": 12.0124661,
@@ -2008,6 +2034,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 486625836,
   "lat": 51.3179697,
   "lon": 12.3731288,
@@ -2257,6 +2284,21 @@
     "smoking": "no",
     "website": "https://kartell-magdeburg.de/",
     "wheelchair": "limited"
+=======
+  "id": 499450663,
+  "lat": 51.4767897,
+  "lon": 11.9700403,
+  "tags": {
+    "addr:city": "Halle (Saale)",
+    "addr:country": "DE",
+    "addr:housenumber": "46",
+    "addr:postcode": "06110",
+    "addr:street": "Steinweg",
+    "name": "Haarwerk",
+    "phone": "+49 3 45 6 86 52 22",
+    "shop": "hairdresser",
+    "vegan": "friendly"
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   }
 },
 {
@@ -2283,6 +2325,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 599205995,
   "lat": 51.3331237,
   "lon": 12.3732585,
@@ -2633,6 +2676,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 711744198,
   "lat": 51.4844933,
   "lon": 11.9677199,
@@ -2668,6 +2713,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 727663328,
   "lat": 51.3492798,
   "lon": 12.3106325,
@@ -3111,6 +3157,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 942721131,
   "lat": 51.4871679,
   "lon": 11.9698115,
@@ -3137,6 +3185,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 945365621,
   "lat": 50.7545906,
   "lon": 10.3435698,
@@ -3322,6 +3371,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 1034448971,
   "lat": 51.4832003,
   "lon": 11.9649977,
@@ -3511,12 +3562,13 @@
 },
 {
   "type": "node",
-  "id": 1080610089,
-  "lat": 51.0615967,
-  "lon": 13.8503986,
+  "id": 1103698374,
+  "lat": 51.4902085,
+  "lon": 11.9974090,
   "tags": {
-    "addr:city": "Dresden",
+    "addr:city": "Halle (Saale)",
     "addr:country": "DE",
+<<<<<<< HEAD
     "addr:housenumber": "138",
     "addr:postcode": "01324",
     "addr:street": "Bautzner Landstraße",
@@ -3566,6 +3618,8 @@
   "tags": {
     "addr:city": "Halle (Saale)",
     "addr:country": "DE",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "addr:housenumber": "1",
     "addr:postcode": "06116",
     "addr:street": "Fritz-Hoffmann-Straße",
@@ -3575,6 +3629,7 @@
     "shop": "hairdresser",
     "vegan": "friendly",
     "website": "https://www.webadresse.de/friseure-halle-moebius-jeannette"
+<<<<<<< HEAD
   }
 },
 {
@@ -3667,6 +3722,8 @@
     "opening_hours": "Mo-Su 12:00-18:00",
     "smoking": "no",
     "wheelchair": "limited"
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   }
 },
 {
@@ -3696,6 +3753,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 1196895998,
   "lat": 50.9282952,
   "lon": 11.5827186,
@@ -3973,6 +4031,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 1475009992,
   "lat": 51.4826808,
   "lon": 11.9708291,
@@ -3997,6 +4057,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 1492233514,
   "lat": 51.0653708,
   "lon": 13.7410058,
@@ -4093,6 +4154,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 1538147900,
   "lat": 51.4877831,
   "lon": 11.9708458,
@@ -4113,29 +4176,6 @@
     "name": "Le Feu",
     "opening_hours": "Su-Th 17:00-22:00; Fr-Sa 17:00-23:00",
     "outdoor_seating": "no",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 1555864660,
-  "lat": 51.0272515,
-  "lon": 13.7610268,
-  "tags": {
-    "addr:city": "Dresden",
-    "addr:country": "DE",
-    "addr:housenumber": "3",
-    "addr:postcode": "01219",
-    "addr:street": "Lannerstraße",
-    "amenity": "fast_food",
-    "cuisine": "indian;pizza;kebab",
-    "delivery": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "level": "0",
-    "name": "Avari Pizza Service",
-    "opening_hours": "PH,Mo-Su 11:00-23:00",
-    "website": "https://www.avari-pizzaservice.de/",
     "wheelchair": "no"
   }
 },
@@ -4167,6 +4207,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 1563446561,
   "lat": 51.0839491,
   "lon": 13.7283010,
@@ -4263,6 +4304,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 1639760594,
   "lat": 51.4882466,
   "lon": 11.9671873,
@@ -4288,6 +4331,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 1641981285,
   "lat": 51.3387156,
   "lon": 12.4026678,
@@ -4428,6 +4472,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 1676156956,
   "lat": 51.4852757,
   "lon": 11.9680151,
@@ -4453,27 +4499,6 @@
 },
 {
   "type": "node",
-  "id": 1692156220,
-  "lat": 51.8392712,
-  "lon": 12.2270969,
-  "tags": {
-    "addr:city": "Dessau-Roßlau",
-    "addr:housenumber": "38",
-    "addr:postcode": "06846",
-    "addr:street": "Gropiusallee",
-    "amenity": "cafe",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "fax": "+49 340 6508445",
-    "name": "Café-Bistro im Bauhaus",
-    "opening_hours": "Mo- Sa 08:00-24:00; Su 08:00-18:00",
-    "phone": "+49 340 6508444",
-    "website": "https://www.bauhaus-dessau.de/cafe-bistro-im-bauhaus.html",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 1701119442,
   "lat": 51.5121840,
   "lon": 11.9593887,
@@ -4494,6 +4519,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 1714948053,
   "lat": 51.3421904,
   "lon": 12.3610671,
@@ -4603,6 +4629,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 1781737776,
   "lat": 51.4803019,
   "lon": 11.9717887,
@@ -4623,77 +4651,6 @@
 },
 {
   "type": "node",
-  "id": 1785349737,
-  "lat": 51.0671270,
-  "lon": 13.7506771,
-  "tags": {
-    "addr:city": "Dresden",
-    "addr:country": "DE",
-    "addr:housenumber": "24",
-    "addr:postcode": "01099",
-    "addr:street": "Louisenstraße",
-    "amenity": "cafe",
-    "cuisine": "cake;coffee_shop",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "internet_access": "yes",
-    "internet_access:fee": "no",
-    "internet_access:ssid": "tanteleuk",
-    "name": "Tanteleuk",
-    "opening_hours": "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 10:00-18:00",
-    "outdoor_seating": "yes",
-    "smoking": "outside",
-    "survey:date": "2017-12-08",
-    "website": "http://www.tanteleuk.de",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 1792934291,
-  "lat": 52.8575346,
-  "lon": 11.1467559,
-  "tags": {
-    "addr:city": "Salzwedel",
-    "addr:housenumber": "26",
-    "addr:postcode": "29410",
-    "addr:street": "Karl-Marx-Straße",
-    "amenity": "fast_food",
-    "contact:facebook": "https://www.facebook.com/D%C3%96NER-Beisser-337417766447227/",
-    "contact:phone": "+49 174 8786894",
-    "cuisine": "kebab",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Döner Beisser",
-    "opening_hours": "Mo-Sa 10:00-21:00; Su 12:00-21:00",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 1804169898,
-  "lat": 51.3156303,
-  "lon": 12.3763926,
-  "tags": {
-    "addr:city": "Leipzig",
-    "addr:country": "DE",
-    "addr:housenumber": "30",
-    "addr:postcode": "04275",
-    "addr:street": "Kantstraße",
-    "amenity": "restaurant",
-    "check_date:opening_hours": "2021-07-24",
-    "cuisine": "sushi",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "fax": "+49 341 3082572",
-    "name": "Shinto Sushi",
-    "opening_hours": "Mo-Fr 11:00-14:00,17:00-22:00; Sa,Su,PH 14:00-22:00",
-    "phone": "+49 341 3082570",
-    "website": "https://www.shinto-sushi.de/"
-  }
-},
-{
-  "type": "node",
   "id": 1808694395,
   "lat": 51.4573431,
   "lon": 11.9564321,
@@ -4710,6 +4667,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 1821774238,
   "lat": 51.1209917,
   "lon": 13.1107959,
@@ -4826,6 +4784,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 1902279166,
   "lat": 51.4959637,
   "lon": 11.9650240,
@@ -4842,30 +4802,6 @@
     "shop": "convenience",
     "website": "http://www.biomarkt-halle.de",
     "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 1905574954,
-  "lat": 51.7147165,
-  "lon": 10.9766339,
-  "tags": {
-    "addr:city": "Thale",
-    "addr:country": "DE",
-    "addr:housenumber": "26",
-    "addr:postcode": "06502",
-    "addr:street": "Ortsstraße",
-    "addr:suburb": "Treseburg",
-    "amenity": "restaurant",
-    "cuisine": "german",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "email": "hotel@luppbode.eu",
-    "fax": "+49 39456 569999",
-    "name": "Restaurant Zur Luppbode",
-    "operator": "RiDo GmbH Hotel Zur Luppbode",
-    "phone": "+49 39456 56751",
-    "website": "https://www.luppbode.de/restaurant/"
   }
 },
 {
@@ -4921,35 +4857,6 @@
 },
 {
   "type": "node",
-  "id": 1953511394,
-  "lat": 51.3366949,
-  "lon": 12.4062996,
-  "tags": {
-    "addr:city": "Leipzig",
-    "addr:housenumber": "28",
-    "addr:postcode": "04317",
-    "addr:street": "Kippenbergstraße",
-    "amenity": "fast_food",
-    "contact:facebook": "https://www.facebook.com/Zu-Sp%C3%A4t-310145699093440/",
-    "contact:phone": "+49 160 99516466",
-    "cuisine": "hot_dog;cake",
-    "delivery:covid19": "no",
-    "diet:vegan": "only",
-    "diet:vegetarian": "only",
-    "drink:beer": "yes",
-    "drink:club-mate": "yes",
-    "drink:coffee": "yes",
-    "drink:soft_drink": "yes",
-    "internet_access": "no",
-    "name": "Bistro \"Zu Spät\"",
-    "opening_hours": "Mo-Sa 16:00-24:00",
-    "opening_hours:covid19": "Do-Sa 16:00-21:00; So 14:00-20:00",
-    "takeaway:covid19": "yes",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 1955876490,
   "lat": 51.4956736,
   "lon": 11.9664836,
@@ -4971,6 +4878,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 1962917546,
   "lat": 51.3431890,
   "lon": 12.3750550,
@@ -5100,6 +5008,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 2011410746,
   "lat": 51.4893464,
   "lon": 11.9783821,
@@ -5146,6 +5056,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 2048728219,
   "lat": 51.0265773,
   "lon": 13.8363662,
@@ -5216,6 +5127,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 2051567009,
   "lat": 51.4899957,
   "lon": 11.9655845,
@@ -5236,6 +5149,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 2054728126,
   "lat": 51.4017037,
   "lon": 12.4000562,
@@ -5285,6 +5199,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 2065237786,
   "lat": 51.4840227,
   "lon": 11.9715581,
@@ -5332,28 +5248,25 @@
 },
 {
   "type": "node",
-  "id": 2076719397,
-  "lat": 51.0740634,
-  "lon": 13.7492332,
+  "id": 2284590295,
+  "lat": 51.4272949,
+  "lon": 11.9840217,
   "tags": {
-    "addr:city": "Dresden",
-    "addr:housenumber": "32",
-    "addr:postcode": "01097",
-    "addr:street": "Rudolf-Leonhard-Straße",
-    "amenity": "restaurant",
-    "contact:email": "kontakt@der-dicke-schmidt.de",
-    "contact:phone": "+49 157 52363641",
-    "contact:website": "http://www.der-dicke-schmidt.de",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Der dicke Schmidt",
-    "note": "Geldautomat (Sparkasse) ist gegenüber",
-    "opening_hours": "Mo-Su 12:00-22:00",
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "434",
+    "addr:postcode": "06132",
+    "addr:street": "Merseburger Straße",
+    "name": "Hairstyling",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-12:00",
+    "phone": "+49 3 45 7 75 87 96",
+    "shop": "hairdresser",
+    "vegan": "friendly",
     "wheelchair": "limited"
   }
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 2128945749,
   "lat": 51.3432875,
   "lon": 12.3735940,
@@ -5681,6 +5594,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 2322858124,
   "lat": 51.4796143,
   "lon": 11.9703883,
@@ -5699,32 +5614,6 @@
     "source": "www.weltladenhalle.de",
     "website": "https://www.weltladenhalle.de/",
     "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
-  "id": 2325557423,
-  "lat": 51.3088791,
-  "lon": 12.3729716,
-  "tags": {
-    "addr:city": "Leipzig",
-    "addr:country": "DE",
-    "addr:housenumber": "12a",
-    "addr:postcode": "04277",
-    "addr:street": "Wolfgang-Heinze-Straße",
-    "addr:suburb": "Connewitz",
-    "amenity": "fast_food",
-    "capacity": "10",
-    "contact:mobile": "+49 163 9650919",
-    "cuisine": "burger",
-    "diet:vegan": "only",
-    "drive_through": "no",
-    "name": "Dein Deli",
-    "opening_hours": "Tu-Su,PH 12:00-22:00; Mo off",
-    "outdoor_seating": "no",
-    "takeaway": "yes",
-    "website": "http://dein-deli.de",
-    "wheelchair": "no"
   }
 },
 {
@@ -5749,27 +5638,6 @@
 },
 {
   "type": "node",
-  "id": 2368420771,
-  "lat": 50.9781323,
-  "lon": 11.3270214,
-  "tags": {
-    "addr:city": "Weimar",
-    "addr:housenumber": "22",
-    "addr:postcode": "99423",
-    "addr:street": "Brauhausgasse",
-    "amenity": "restaurant",
-    "contact:facebook": "https://www.facebook.com/El-Burrito-175041452530515/",
-    "cuisine": "mexican",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "level": "0",
-    "name": "El Burrito",
-    "opening_hours": "We-Mo 17:00-22:00; Tu off",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 2371803959,
   "lat": 51.3569726,
   "lon": 11.9911235,
@@ -5788,27 +5656,6 @@
     "level": "0",
     "name": "Freddy Fresh",
     "opening_hours": "Mo-Su 10:30-22:00",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 2413048665,
-  "lat": 51.3449528,
-  "lon": 12.3811076,
-  "tags": {
-    "addr:city": "Leipzig",
-    "addr:housenumber": "5",
-    "addr:postcode": "04109",
-    "addr:street": "Willy-Brandt-Platz",
-    "amenity": "fast_food",
-    "cuisine": "asian",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "level": "0",
-    "name": "asiahung",
-    "opening_hours": "PH,Mo-Su 10:00-21:00",
-    "takeaway": "yes",
     "wheelchair": "yes"
   }
 },
@@ -5839,6 +5686,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 2422764491,
   "lat": 51.0627143,
   "lon": 13.7487025,
@@ -6136,6 +5984,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 2496741334,
   "lat": 51.4858657,
   "lon": 11.9665075,
@@ -6162,6 +6012,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 2500371486,
   "lat": 51.3440128,
   "lon": 12.3203633,
@@ -6233,6 +6084,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 2531221700,
   "lat": 51.4793644,
   "lon": 11.9205143,
@@ -6262,10 +6115,11 @@
 },
 {
   "type": "node",
-  "id": 2540120085,
-  "lat": 50.9302723,
-  "lon": 11.5892155,
+  "id": 2567892341,
+  "lat": 51.4721139,
+  "lon": 11.9665280,
   "tags": {
+<<<<<<< HEAD
     "addr:city": "Jena",
     "addr:housenumber": "19",
     "addr:postcode": "07743",
@@ -6329,6 +6183,10 @@
   "tags": {
     "addr:city": "Halle (Saale)",
     "addr:country": "DE",
+=======
+    "addr:city": "Halle (Saale)",
+    "addr:country": "DE",
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "addr:housenumber": "107",
     "addr:postcode": "06110",
     "addr:street": "Wörmlitzer Straße",
@@ -6338,6 +6196,7 @@
     "shop": "hairdresser",
     "vegan": "friendly",
     "wheelchair": "no"
+<<<<<<< HEAD
   }
 },
 {
@@ -6455,6 +6314,8 @@
     "name": "Uno Pizza",
     "opening_hours": "Mo-Su 11:00-24:00",
     "wheelchair": "yes"
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   }
 },
 {
@@ -6484,22 +6345,17 @@
 },
 {
   "type": "node",
-  "id": 2733272356,
-  "lat": 51.3083691,
-  "lon": 12.3730618,
+  "id": 2749602895,
+  "lat": 51.4822903,
+  "lon": 11.9675570,
   "tags": {
-    "addr:city": "Leipzig",
-    "addr:country": "DE",
-    "addr:housenumber": "20",
-    "addr:postcode": "04277",
-    "addr:street": "Wolfgang-Heinze-Straße",
-    "addr:suburb": "Connewitz",
-    "diet:vegan": "yes",
-    "name": "Lazy Dog",
-    "opening_hours": "Mo-Fr 11:00-01:00; Sa 13:00-01:00; Su,PH 13:00-00:00",
-    "shop": "yes",
-    "toilets:wheelchair": "no",
-    "wheelchair": "no"
+    "name": "Koegel der Friseur",
+    "opening_hours": "Mo 13:00-18:00; Tu,Th-Fr 08:30-19:00; We 09:30-19:00; Sa 08:00-13:30",
+    "phone": "+49 345 58217707",
+    "shop": "hairdresser",
+    "vegan": "friendly",
+    "website": "https://www.koegel-der-friseur.de/",
+    "wheelchair": "yes"
   }
 },
 {
@@ -6627,46 +6483,6 @@
 },
 {
   "type": "node",
-  "id": 2794442902,
-  "lat": 51.3291852,
-  "lon": 12.4046668,
-  "tags": {
-    "addr:city": "Leipzig",
-    "addr:housenumber": "21",
-    "addr:postcode": "04317",
-    "addr:street": "Riebeckstraße",
-    "amenity": "fast_food",
-    "cuisine": "lebanese;kebab",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Bistro de Libanon",
-    "opening_hours": "Mo-Fr 11:00-22:00, Sa,Su,PH 12:00-22:00",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 2818811601,
-  "lat": 51.0058304,
-  "lon": 13.8276584,
-  "tags": {
-    "addr:city": "Dresden",
-    "addr:housenumber": "18",
-    "addr:postcode": "01257",
-    "addr:street": "Stephensonstraße",
-    "amenity": "restaurant",
-    "contact:facebook": "https://www.facebook.com/ARBIL-Kebap-Haus-431417460352781/",
-    "cuisine": "turkish;kebab;pizza",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Arbil Kebap Haus",
-    "opening_hours": "Mo-Fr 11:00-22:00; Sa,Su,PH 12:00-22:00",
-    "opening_hours:covid19": "same",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 2874464836,
   "lat": 51.4962613,
   "lon": 11.9665041,
@@ -6686,25 +6502,6 @@
     "name": "Mextreme",
     "opening_hours": "Mo-Th 17:00-23:00; Fr-Sa 17:00-21:00; Su 17:00-22:00",
     "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 2876144684,
-  "lat": 51.3336832,
-  "lon": 12.3383429,
-  "tags": {
-    "addr:city": "Leipzig",
-    "addr:housenumber": "12",
-    "addr:postcode": "04229",
-    "addr:street": "Zschochersche Straße",
-    "amenity": "cafe",
-    "cuisine": "regional",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Annalinde Gemeinschaftsgarten",
-    "opening_hours": "Fr 16:00-19:00; Sa 14:00-19:00",
-    "website": "http://annalinde-leipzig.de/"
   }
 },
 {
@@ -6735,6 +6532,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 2910563062,
   "lat": 50.8148941,
   "lon": 12.9307330,
@@ -6758,6 +6556,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 2932869816,
   "lat": 51.4758150,
   "lon": 11.9701334,
@@ -6782,67 +6582,6 @@
     "shisha": "yes",
     "takeaway": "yes",
     "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 2936056631,
-  "lat": 51.0728296,
-  "lon": 13.7467701,
-  "tags": {
-    "addr:city": "Dresden",
-    "addr:country": "DE",
-    "addr:housenumber": "12",
-    "addr:postcode": "01097",
-    "addr:street": "Hechtstraße",
-    "amenity": "restaurant",
-    "cuisine": "pizza",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Pizzastube",
-    "opening_hours": "Tu,Fr-Su 12:00-22:00; Mo,We,Th 17:00-22:00",
-    "outdoor_seating": "yes",
-    "website": "http://www.pizzastube-dd.de/",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 2953921285,
-  "lat": 50.9783179,
-  "lon": 11.0335815,
-  "tags": {
-    "addr:city": "Erfurt",
-    "addr:housenumber": "23",
-    "addr:postcode": "99084",
-    "addr:street": "Meienbergstraße",
-    "amenity": "restaurant",
-    "cuisine": "chinese",
-    "delivery": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "H&N Chinawok",
-    "phone": "+49 361 6027925",
-    "takeaway": "yes",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 2965778833,
-  "lat": 50.9856598,
-  "lon": 11.0210709,
-  "tags": {
-    "addr:city": "Erfurt",
-    "addr:housenumber": "73",
-    "addr:postcode": "99089",
-    "addr:street": "Auenstraße",
-    "amenity": "restaurant",
-    "cuisine": "pizza",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Le Grazie",
-    "opening_hours": "Mo-Fr 11:00-14:00,17:00-21:00; Sa,Su 11:00-21:00"
   }
 },
 {
@@ -6874,6 +6613,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 2986715921,
   "lat": 51.3446521,
   "lon": 12.3812120,
@@ -6902,6 +6642,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 2986723100,
   "lat": 51.3443280,
   "lon": 12.1776830,
@@ -6927,6 +6669,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 3013703237,
   "lat": 50.9778404,
   "lon": 11.0275173,
@@ -6965,6 +6708,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 3052291182,
   "lat": 51.4942999,
   "lon": 11.9663396,
@@ -6992,6 +6737,7 @@
   "id": 3067537371,
   "lat": 51.4628970,
   "lon": 11.9840561,
+<<<<<<< HEAD
   "tags": {
     "addr:city": "Halle (Saale)",
     "addr:housenumber": "137",
@@ -7022,47 +6768,17 @@
   "id": 3098339408,
   "lat": 51.0670670,
   "lon": 13.7509025,
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "tags": {
-    "addr:city": "Dresden",
-    "addr:housenumber": "26",
-    "addr:postcode": "01099",
-    "addr:street": "Louisenstraße",
-    "air_conditioning": "no",
-    "amenity": "restaurant",
-    "bar": "no",
-    "brewery": "yes",
-    "cuisine": "russian",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "drive_through": "no",
-    "microbrewery": "no",
-    "name": "AljonuschkA",
-    "opening_hours": "Mo-Fr 11:00-15:00,17:00-22:00; Sa 12:00-22:00; Su 12:00-20:00",
-    "opening_hours:covid19": "open",
-    "outdoor_seating": "yes",
-    "smoking": "no",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 3121754128,
-  "lat": 50.9784224,
-  "lon": 11.3264804,
-  "tags": {
-    "addr:city": "Weimar",
-    "addr:country": "DE",
-    "addr:housenumber": "8",
-    "addr:postcode": "99423",
-    "addr:street": "Schützengasse",
-    "amenity": "fast_food",
-    "contact:phone": "+49 3641 3474797",
-    "cuisine": "sausage",
-    "diet:vegan": "yes",
-    "name": "Fritz Mitte",
-    "opening_hours": "Mo-Su 11:00-22:00",
-    "smoking": "no",
-    "wheelchair": "limited"
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "137",
+    "addr:postcode": "06112",
+    "addr:street": "Merseburger Straße",
+    "name": "hairStyling",
+    "phone": "+49 3 45 4 44 24 18",
+    "shop": "hairdresser",
+    "vegan": "friendly"
   }
 },
 {
@@ -7094,6 +6810,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 3147867700,
   "lat": 51.8354078,
   "lon": 12.2457805,
@@ -7145,6 +6862,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 3173527817,
   "lat": 51.4954925,
   "lon": 11.9658855,
@@ -7170,6 +6889,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 3208857361,
   "lat": 51.0704890,
   "lon": 13.7501320,
@@ -7224,6 +6944,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 3208898648,
   "lat": 51.3439014,
   "lon": 12.1780337,
@@ -7253,6 +6975,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 3227929190,
   "lat": 50.9777910,
   "lon": 11.0353510,
@@ -7276,9 +6999,15 @@
   "id": 3256204808,
   "lat": 50.9744778,
   "lon": 11.0318649,
+=======
+  "id": 3299234039,
+  "lat": 51.4629014,
+  "lon": 11.9710809,
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "tags": {
-    "addr:city": "Erfurt",
+    "addr:city": "Halle (Saale)",
     "addr:country": "DE",
+<<<<<<< HEAD
     "addr:housenumber": "33",
     "addr:postcode": "99084",
     "addr:street": "Anger",
@@ -7329,6 +7058,8 @@
   "tags": {
     "addr:city": "Halle (Saale)",
     "addr:country": "DE",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "addr:housenumber": "49",
     "addr:postcode": "06110",
     "addr:street": "Huttenstraße",
@@ -7336,6 +7067,7 @@
     "phone": "+49 3 45 4 44 91 20",
     "shop": "hairdresser",
     "vegan": "friendly"
+<<<<<<< HEAD
   }
 },
 {
@@ -7409,6 +7141,8 @@
     "opening_hours": "PH,Mo-Su 16:00-20:00",
     "survey:date": "2017-07-25",
     "wheelchair": "limited"
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   }
 },
 {
@@ -7462,6 +7196,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 3399656859,
   "lat": 50.9193427,
   "lon": 11.5822137,
@@ -7637,6 +7372,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 3590210914,
   "lat": 51.4912396,
   "lon": 11.9690337,
@@ -7664,6 +7401,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 3625856377,
   "lat": 50.9799598,
   "lon": 11.3275266,
@@ -7729,6 +7467,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 3658458714,
   "lat": 51.4864335,
   "lon": 11.9674203,
@@ -7755,6 +7495,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 3667782036,
   "lat": 51.3462484,
   "lon": 12.4033458,
@@ -7817,6 +7558,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 3724388225,
   "lat": 51.4872726,
   "lon": 11.9682453,
@@ -7843,6 +7586,7 @@
   "id": 3731334025,
   "lat": 51.4800165,
   "lon": 11.9780186,
+<<<<<<< HEAD
   "tags": {
     "addr:city": "Halle (Saale)",
     "addr:country": "DE",
@@ -7863,39 +7607,26 @@
   "id": 3733309925,
   "lat": 50.9259638,
   "lon": 11.5849972,
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "tags": {
-    "amenity": "fast_food",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Fritz Mitte",
-    "opening_hours": "Mo-Su 11:00-23:00",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 3733395725,
-  "lat": 50.9293718,
-  "lon": 11.5847347,
-  "tags": {
-    "addr:city": "Jena",
-    "addr:housenumber": "13",
-    "addr:postcode": "07743",
-    "addr:street": "Johannisstraße",
-    "amenity": "restaurant",
-    "capacity": "40",
-    "cuisine": "regional",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "drink:club-mate": "yes",
-    "name": "Cafeteria \"Zur Rosen\"",
-    "opening_hours": "Mo-Fr 11:00-22:00",
-    "toilets:wheelchair": "yes",
+    "addr:city": "Halle (Saale)",
+    "addr:country": "DE",
+    "addr:housenumber": "8",
+    "addr:postcode": "06108",
+    "addr:street": "Martinstraße",
+    "name": "Steffi`s Haarstudio",
+    "phone": "+49 345 2021817",
+    "shop": "hairdresser",
+    "toilets:wheelchair": "no",
+    "vegan": "friendly",
+    "website": "https://www.haarstudio-steffi.de/",
     "wheelchair": "yes"
   }
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 3740520417,
   "lat": 51.3432756,
   "lon": 12.3730243,
@@ -7942,6 +7673,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 3752087074,
   "lat": 51.4863948,
   "lon": 11.9669050,
@@ -8018,6 +7751,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 3776400557,
   "lat": 51.3250200,
   "lon": 12.3427868,
@@ -8104,6 +7838,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 3820929262,
   "lat": 51.3549709,
   "lon": 11.9924674,
@@ -8156,6 +7892,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 3874825457,
   "lat": 51.3433783,
   "lon": 12.3757062,
@@ -8406,6 +8143,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 4036431410,
   "lat": 51.4933783,
   "lon": 11.9699697,
@@ -8443,10 +8182,11 @@
 },
 {
   "type": "node",
-  "id": 4140863802,
-  "lat": 51.0342249,
-  "lon": 13.7340681,
+  "id": 4228270047,
+  "lat": 51.5006059,
+  "lon": 11.9337137,
   "tags": {
+<<<<<<< HEAD
     "addr:city": "Dresden",
     "addr:housenumber": "1",
     "addr:postcode": "01069",
@@ -8807,20 +8547,18 @@
   "tags": {
     "addr:city": "Görlitz",
     "addr:country": "DE",
+=======
+    "addr:city": "Halle (Saale)",
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "addr:housenumber": "2",
-    "addr:postcode": "02826",
-    "addr:street": "Weberstraße",
-    "amenity": "cafe",
-    "contact:phone": "+49 3581 8787487",
-    "contact:website": "https://www.cafe-herzstueck.de",
-    "description": "serves cakes (vegetarian/vegan) and small meals like veggie burgers",
-    "diet:gluten_free": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "only",
-    "internet_access": "yes",
-    "name": "Cafe Herzstück",
-    "opening_hours": "Mo 14:00-18:00; We-Fr 11:00-18:00; Sa,Su 09:00-18:00",
-    "smoking": "no"
+    "addr:postcode": "06120",
+    "addr:street": "Heideallee",
+    "name": "Classic Hair & Beauty Lounge",
+    "phone": "+49 3 45 68 30 07 33",
+    "shop": "hairdresser",
+    "toilets:wheelchair": "no",
+    "vegan": "friendly",
+    "wheelchair": "limited"
   }
 },
 {
@@ -8914,6 +8652,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 4466012999,
   "lat": 50.9754983,
   "lon": 11.0309129,
@@ -9111,6 +8850,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 4730436532,
   "lat": 51.4977698,
   "lon": 11.9555747,
@@ -9130,6 +8871,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 4770980622,
   "lat": 51.3239094,
   "lon": 12.3305667,
@@ -9190,6 +8932,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 4815445923,
   "lat": 51.4849077,
   "lon": 11.9664563,
@@ -9236,6 +8980,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 4828837562,
   "lat": 51.3363049,
   "lon": 12.3360297,
@@ -9364,6 +9109,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 4868552820,
   "lat": 51.4994094,
   "lon": 11.9330975,
@@ -9505,6 +9252,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 4956285673,
   "lat": 51.0005023,
   "lon": 13.8293659,
@@ -9586,6 +9334,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 4971464334,
   "lat": 51.5011975,
   "lon": 11.9619723,
@@ -9654,6 +9404,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 4988110483,
   "lat": 51.0710647,
   "lon": 13.7506614,
@@ -9807,6 +9558,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 5091097909,
   "lat": 51.3558738,
   "lon": 11.9993352,
@@ -9839,6 +9592,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 5110990722,
   "lat": 50.9779123,
   "lon": 11.0268862,
@@ -9869,68 +9623,26 @@
   "id": 5140190741,
   "lat": 51.3515358,
   "lon": 12.4067962,
+=======
+  "id": 5240927115,
+  "lat": 51.4866954,
+  "lon": 11.9661272,
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "tags": {
-    "addr:city": "Leipzig",
-    "addr:housenumber": "1",
-    "addr:postcode": "04347",
-    "addr:street": "Paul-Heyse-Straße",
-    "amenity": "cafe",
-    "changing_table": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "email": "mail@cafetrago.de",
-    "highchair": "yes",
-    "internet_access": "wlan",
-    "internet_access:fee": "no",
-    "name": "TRAGO",
-    "opening_hours": "Sa, Su 10:00-18:00; Mo-Fr 10:00-18:00",
-    "outdoor_seating": "yes",
-    "website": "http://cafetrago.de/",
-    "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
-  "id": 5145495672,
-  "lat": 50.6845667,
-  "lon": 10.9211677,
-  "tags": {
-    "addr:city": "Ilmenau",
-    "addr:country": "DE",
-    "addr:housenumber": "26",
-    "addr:postcode": "98693",
-    "addr:street": "Bahnhofstraße",
-    "amenity": "cafe",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "internet_access": "wlan",
-    "internet_access:fee": "no",
-    "name": "Schwalbennest",
-    "outdoor_seating": "yes",
-    "start_date": "2021-07-23",
-    "takeaway": "yes",
-    "toilets:wheelchair": "no",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 5182675089,
-  "lat": 51.3734048,
-  "lon": 12.3280981,
-  "tags": {
-    "addr:city": "Leipzig",
-    "addr:housenumber": "294",
-    "addr:postcode": "04159",
-    "addr:street": "Georg-Schumann-Straße",
-    "amenity": "fast_food",
-    "cuisine": "pizza;italian;italian_pizza",
-    "diet:vegan": "yes",
-    "name": "Pizza Revolution Gohlis",
-    "opening_hours": "Mo-Th 16:00-1:30; Fr-Su, PH 16:00-2:30",
-    "operator": "Mohammad Alhayek",
-    "phone": "+4934199997593",
-    "website": "https://pizza-revolution-leipzig.com"
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "18",
+    "addr:postcode": "06108",
+    "addr:street": "Kleine Ulrichstraße",
+    "contact:phone": "+49 345 6850105",
+    "female": "no",
+    "male": "no",
+    "name": "HairCult",
+    "opening_hours": "Mo 09:00-17:00, Tu,We 10:00-19:00, Th 10:00-18:00, Fr 08:00-19:00, Sa 09:00-14:00",
+    "operator": "Heinicke Konstanze Friseurmeisterin",
+    "phone": "+49 3 45 6 85 01 05",
+    "shop": "hairdresser",
+    "unisex": "yes",
+    "vegan": "friendly"
   }
 },
 {
@@ -9981,6 +9693,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 5249907324,
   "lat": 50.9899182,
   "lon": 11.0261121,
@@ -10259,6 +9972,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 5583171123,
   "lat": 51.4737109,
   "lon": 11.9688803,
@@ -10281,6 +9996,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 5585662569,
   "lat": 51.0659018,
   "lon": 13.7552343,
@@ -10336,6 +10052,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 5592955318,
   "lat": 51.4707364,
   "lon": 11.9632008,
@@ -10427,6 +10145,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 5601768241,
   "lat": 51.3196803,
   "lon": 12.3292246,
@@ -10671,6 +10390,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 5868832962,
   "lat": 51.4737130,
   "lon": 11.9701787,
@@ -10689,127 +10410,6 @@
     "internet_access:fee": "no",
     "name": "Tandoori Steakhaus",
     "opening_hours": "Mo-Su 11:30-14:30, 17:30-23:00"
-  }
-},
-{
-  "type": "node",
-  "id": 5875915084,
-  "lat": 52.1290651,
-  "lon": 11.6362106,
-  "tags": {
-    "addr:city": "Magdeburg",
-    "addr:country": "DE",
-    "addr:housenumber": "19b",
-    "addr:postcode": "39104",
-    "addr:street": "Breiter Weg",
-    "amenity": "restaurant",
-    "contact:facebook": "https://www.facebook.com/vegan.Crops/",
-    "contact:phone": "+49 391 99045043",
-    "diet:vegan": "only",
-    "name": "Crops - Vegane Küche",
-    "opening_hours": "Mo-Sa 11:00-20:00"
-  }
-},
-{
-  "type": "node",
-  "id": 5894646253,
-  "lat": 51.3378570,
-  "lon": 12.3850879,
-  "tags": {
-    "addr:city": "Leipzig",
-    "addr:housenumber": "1",
-    "addr:postcode": "04103",
-    "addr:street": "Nürnberger Straße",
-    "air_conditioning": "no",
-    "amenity": "cafe",
-    "check_date:opening_hours": "2021-11-25",
-    "diet:vegan": "only",
-    "diet:vegetarian": "only",
-    "email": "reservierungleipzig@katzentempel.de",
-    "name": "Cafe Katzentempel",
-    "opening_hours": "Mo-Fr 11:00-20:00; Sa 10:00-20:00; Su 10:00-18:00",
-    "outdoor_seating": "no",
-    "phone": "+49 341 25690874",
-    "smoking": "no",
-    "website": "https://www.katzentempel.de/standorte/leipzig/",
-    "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
-  "id": 5896848985,
-  "lat": 51.7877223,
-  "lon": 11.1401245,
-  "tags": {
-    "addr:city": "Quedlinburg",
-    "addr:country": "DE",
-    "addr:housenumber": "4",
-    "addr:postcode": "06484",
-    "addr:street": "Wordgasse",
-    "amenity": "restaurant",
-    "changing_table": "yes",
-    "cuisine": "french;tarte_flambee",
-    "diet:lactose_free": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "email": "quedlinburg@lefeu.de",
-    "internet_access": "no",
-    "name": "Le Feu",
-    "opening_hours": "Mo-Su 12:00-23:00",
-    "outdoor_seating": "yes",
-    "payment:cash": "yes",
-    "payment:credit_cards": "yes",
-    "payment:girocard": "yes",
-    "phone": "+49 3946 9078040",
-    "toilets": "yes",
-    "toilets:wheelchair": "no",
-    "website": "http://www.lefeu.de/le-feu-quedlinburg"
-  }
-},
-{
-  "type": "node",
-  "id": 5922128240,
-  "lat": 51.8363655,
-  "lon": 10.7917292,
-  "tags": {
-    "addr:city": "Wernigerode",
-    "addr:country": "DE",
-    "addr:housenumber": "97",
-    "addr:postcode": "38855",
-    "addr:street": "Breite Straße",
-    "amenity": "restaurant",
-    "cuisine": "german",
-    "diet:kosher": "no",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Restaurant Harzer Schnitzelstübchen",
-    "opening_hours": "Fr,Sa 12:00-22:00; Su-Th 12:00-21:00",
-    "outdoor_seating": "yes",
-    "phone": "+49 3943 5397170",
-    "website": "http://hotelaltebrennerei.de/Restaurant-Harzer-Schnitzelstuebchen/",
-    "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
-  "id": 5940902942,
-  "lat": 50.9287134,
-  "lon": 11.5915239,
-  "tags": {
-    "addr:city": "Jena",
-    "addr:housenumber": "3-4",
-    "addr:postcode": "07743",
-    "addr:street": "Steinweg",
-    "amenity": "restaurant",
-    "contact:facebook": "https://www.facebook.com/vegan.devinos/",
-    "contact:phone": "+49 3641 2218683",
-    "contact:website": "https://devinos.de",
-    "diet:vegan": "only",
-    "diet:vegetarian": "only",
-    "happycow:id": "83075",
-    "name": "de Vino's",
-    "opening_hours": "We 12:00-18:00; Th 12:00-20:00; Fr 12:00-22:00; Sa 15:00-22:00",
-    "wheelchair": "no"
   }
 },
 {
@@ -10839,92 +10439,6 @@
 },
 {
   "type": "node",
-  "id": 5965813195,
-  "lat": 51.0639658,
-  "lon": 13.7524914,
-  "tags": {
-    "addr:city": "Dresden",
-    "addr:housenumber": "14",
-    "addr:postcode": "01099",
-    "addr:street": "Rothenburger Straße",
-    "amenity": "cafe",
-    "contact:email": "fiete.behnersen@gmail.com",
-    "contact:facebook": "https://www.facebook.com/cafe.vcake/",
-    "contact:phone": "+49 1577 7316057",
-    "contact:website": "http://www.v-cake.de",
-    "cuisine": "brunch;cake",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Fiete Behnersens v-cake",
-    "opening_hours": "Tu-Th 11:00-18:00, Fr 11:00 - 19:00, Sa 10:00 - 19:00, Su 10:00 - 18:00",
-    "outdoor_seating": "yes",
-    "smoking": "outside"
-  }
-},
-{
-  "type": "node",
-  "id": 6005900750,
-  "lat": 50.9753116,
-  "lon": 11.0352548,
-  "tags": {
-    "addr:city": "Erfurt",
-    "addr:housenumber": "4a",
-    "addr:postcode": "99084",
-    "addr:street": "Bahnhofstraße",
-    "brand": "Alnatura",
-    "brand:wikidata": "Q876811",
-    "brand:wikipedia": "de:Alnatura",
-    "diet:vegan": "yes",
-    "name": "Alnatura",
-    "opening_hours": "Mo-Sa 08:00-20:00",
-    "operator": "Alnatura",
-    "organic": "only",
-    "shop": "supermarket",
-    "start_date": "2018-10-04"
-  }
-},
-{
-  "type": "node",
-  "id": 6013092074,
-  "lat": 50.5682396,
-  "lon": 10.4147181,
-  "tags": {
-    "amenity": "cafe",
-    "cuisine": "syrian",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Arabesque",
-    "outdoor_seating": "yes",
-    "takeaway": "yes",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 6021587113,
-  "lat": 51.7546905,
-  "lon": 11.4550948,
-  "tags": {
-    "addr:city": "Aschersleben",
-    "addr:housenumber": "31-32",
-    "addr:postcode": "06449",
-    "addr:street": "Hinter dem Turm",
-    "description": "Naturkost - Bistro - Cafe",
-    "diet:vegan": "limited",
-    "diet:vegetarian": "only",
-    "fair_trade": "yes",
-    "name": "Naturkostladen \"Besser Leben\"",
-    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-13:00",
-    "organic": "only",
-    "payment:cash": "yes",
-    "payment:ep_geldkarte": "yes",
-    "phone": "+49 3473 2174334",
-    "shop": "supermarket",
-    "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
   "id": 6033781352,
   "lat": 51.4956871,
   "lon": 11.9655416,
@@ -10943,6 +10457,7 @@
     "diet:vegetarian": "only",
     "name": "Törtcheneck",
     "opening_hours": "Tu-Sa 11:00-16:00",
+<<<<<<< HEAD
     "outdoor_seating": "no",
     "phone": "+49 345 13252434",
     "website": "https://www.toertcheneck.de"
@@ -11220,6 +10735,11 @@
     "name": "Stadt-Kaffee",
     "opening_hours": "08:00-18:00",
     "phone": "+49 3681 79080"
+=======
+    "outdoor_seating": "no",
+    "phone": "+49 345 13252434",
+    "website": "https://www.toertcheneck.de"
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   }
 },
 {
@@ -11242,6 +10762,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 6402410977,
   "lat": 51.3437466,
   "lon": 12.3210621,
@@ -11357,6 +10878,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 6569044919,
   "lat": 51.4849106,
   "lon": 11.9610697,
@@ -11375,6 +10898,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 6576882132,
   "lat": 51.0821961,
   "lon": 13.7269809,
@@ -11494,6 +11018,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 6805328949,
   "lat": 51.4778531,
   "lon": 11.9872248,
@@ -11528,62 +11054,6 @@
     "diet:vegetarian": "yes",
     "name": "Pirashki",
     "opening_hours": "Mo-Su 15:00-20:00"
-  }
-},
-{
-  "type": "node",
-  "id": 6914529778,
-  "lat": 51.0622022,
-  "lon": 13.9507459,
-  "tags": {
-    "addr:city": "Dresden",
-    "addr:housenumber": "114",
-    "addr:postcode": "01328",
-    "addr:street": "Ernest-Rutherford-Straße",
-    "amenity": "restaurant",
-    "diet:vegan": "yes",
-    "name": "Betriebsrestaurant Helmholtz-Zentrum",
-    "opening_hours": "Mo-Fr 11:00-13:30",
-    "outdoor_seating": "yes",
-    "self_service": "yes",
-    "toilets": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 6983182407,
-  "lat": 51.3356329,
-  "lon": 12.3348922,
-  "tags": {
-    "amenity": "restaurant",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Buntspecht",
-    "opening_hours": "Tu-Sa 19:00+",
-    "website": "https://buntspechtleipzig.myportfolio.com/",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 6984946387,
-  "lat": 52.1241844,
-  "lon": 11.6329828,
-  "tags": {
-    "addr:city": "Magdeburg",
-    "addr:country": "DE",
-    "addr:housenumber": "11",
-    "addr:postcode": "39104",
-    "addr:street": "Danzstraße",
-    "amenity": "cafe",
-    "cuisine": "cake;ice_cream",
-    "diet:vegan": "yes",
-    "name": "Danz11 Eis und Kuchen",
-    "opening_hours": "12:00-18:00",
-    "outdoor_seating": "yes",
-    "toilets:wheelchair": "yes",
-    "website": "https://www.danz11.de/",
-    "wheelchair": "yes"
   }
 },
 {
@@ -11632,27 +11102,6 @@
 },
 {
   "type": "node",
-  "id": 7055418094,
-  "lat": 51.3450634,
-  "lon": 12.4124227,
-  "tags": {
-    "addr:city": "Leipzig",
-    "addr:housenumber": "128",
-    "addr:postcode": "04315",
-    "addr:street": "Eisenbahnstraße",
-    "amenity": "fast_food",
-    "cuisine": "burger;kebab",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "drink:club-mate": "yes",
-    "name": "Vleischerei",
-    "opening_hours": "Tu-Th 16:00-22:00; Fr-Su 12:00-22:00",
-    "website": "https://vleischerei.de/",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 7068127430,
   "lat": 51.4282383,
   "lon": 11.9661048,
@@ -11673,6 +11122,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 7087040984,
   "lat": 51.3293505,
   "lon": 12.3367592,
@@ -11900,6 +11350,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 7206763585,
   "lat": 51.4961558,
   "lon": 11.9653379,
@@ -11922,6 +11374,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 7239135444,
   "lat": 51.0614415,
   "lon": 13.7443472,
@@ -12000,6 +11453,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 7388445891,
   "lat": 51.4958187,
   "lon": 11.9657115,
@@ -12021,46 +11476,30 @@
 },
 {
   "type": "node",
-  "id": 7419420582,
-  "lat": 50.9248962,
-  "lon": 11.5845215,
+  "id": 7598042193,
+  "lat": 51.4918365,
+  "lon": 11.9711935,
   "tags": {
-    "addr:city": "Jena",
-    "addr:housenumber": "17",
-    "addr:postcode": "07743",
-    "addr:street": "Neugasse",
-    "amenity": "restaurant",
-    "contact:phone": "+49 3641 6364066",
-    "contact:website": "https://pacostacos.de/jena/",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Paco's Tacos",
-    "opening_hours": "Mo-Th 12:00-20:00; Fr,Sa 20:00-21:00",
-    "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
-  "id": 7432989096,
-  "lat": 50.9251502,
-  "lon": 11.5807552,
-  "tags": {
-    "addr:city": "Jena",
-    "addr:housenumber": "5",
-    "addr:postcode": "07745",
-    "addr:street": "Westbahnhofstraße",
-    "amenity": "cafe",
-    "cuisine": "international",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Pici",
-    "opening_hours": "Mo-Fr 11:00-23:00; Sa 17:30-23:00",
-    "outdoor_seating": "yes",
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "16",
+    "addr:postcode": "06108",
+    "addr:street": "Puschkinstraße",
+    "contact:facebook": "https://www.facebook.com/inkerbelltattoos",
+    "contact:instagram": "https://www.instagram.com/inkerbell_tattoos",
+    "contact:website": "https://www.inkerbelltattoos.de",
+    "email": "hallo@inkerbelltattoos.de",
+    "name": "Inkerbell Tattoos",
+    "opening_hours": "nach Anfrage",
+    "operator": "Sarah Laue",
+    "shop": "tattoo",
+    "vegan": "only",
+    "website": "https://www.inkerbelltattoos.de",
     "wheelchair": "no"
   }
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 7574901902,
   "lat": 50.9309289,
   "lon": 11.5895136,
@@ -12243,6 +11682,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 8018723343,
   "lat": 51.4910051,
   "lon": 11.9718784,
@@ -12303,6 +11744,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 8063498762,
   "lat": 51.8158200,
   "lon": 12.2251135,
@@ -12448,6 +11890,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 8357411012,
   "lat": 51.4873071,
   "lon": 11.9681005,
@@ -12472,6 +11916,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 8378156322,
   "lat": 51.0514333,
   "lon": 13.7394826,
@@ -12522,6 +11967,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 8616778482,
   "lat": 51.4886836,
   "lon": 11.9787619,
@@ -12545,6 +11992,7 @@
 },
 {
   "type": "node",
+<<<<<<< HEAD
   "id": 8661798849,
   "lat": 51.3345206,
   "lon": 12.3296083,
@@ -12605,6 +12053,8 @@
 },
 {
   "type": "node",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 8773861578,
   "lat": 51.4963212,
   "lon": 11.9660347,
@@ -12757,33 +12207,6 @@
 },
 {
   "type": "node",
-  "id": 9016290315,
-  "lat": 50.9295912,
-  "lon": 11.5835177,
-  "tags": {
-    "addr:city": "Jena",
-    "addr:country": "DE",
-    "addr:housenumber": "21",
-    "addr:postcode": "07743",
-    "addr:street": "Johannisplatz",
-    "amenity": "fast_food",
-    "contact:facebook": "https://www.facebook.com/FritzMitte",
-    "cuisine": "friture",
-    "delivery": "no",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "drive_through": "no",
-    "name": "Fritz Mitte",
-    "old_name": "Café Achteck",
-    "opening_hours": "Mo-Th 10:30-23:00, Fr-Sa 10:30-01:00, Su 12:00-23:00",
-    "smoking": "no",
-    "takeaway": "only",
-    "toilets:wheelchair": "no",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 9033240019,
   "lat": 51.4938316,
   "lon": 11.9663524,
@@ -12812,85 +12235,6 @@
 },
 {
   "type": "node",
-  "id": 9034896308,
-  "lat": 50.9285490,
-  "lon": 11.5884412,
-  "tags": {
-    "amenity": "ice_cream",
-    "diet:vegan": "yes",
-    "name": "Handeis",
-    "opening_hours": "Tu-Sa 12:00-19:00; Su 14:00-18:00"
-  }
-},
-{
-  "type": "node",
-  "id": 9077182376,
-  "lat": 51.0530198,
-  "lon": 13.7609048,
-  "tags": {
-    "addr:city": "Dresden",
-    "addr:housenumber": "38",
-    "addr:postcode": "01307",
-    "addr:street": "Marschnerstraße",
-    "amenity": "fast_food",
-    "capacity": "297",
-    "cn_tud:token": "MJOH",
-    "cuisine": "german",
-    "diet:kosher": "no",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "drink": "yes",
-    "fast_food": "cafeteria",
-    "fax": "+49 351 4701088",
-    "internet_access": "yes",
-    "internet_access:fee": "no",
-    "internet_access:ssid": "eduroam",
-    "kids_area": "yes",
-    "level": "1",
-    "lunch": "menu;buffet;saladbar",
-    "name": "Mensa Johannstadt",
-    "opening_hours": "Mo-Fr 08:00-15:00; PH off; 2021 Aug 23 - 2021 Sep 30 11:00-14:00",
-    "opening_hours:kitchen": "Mo-Fr 11:00-14:30",
-    "operator": "Studentenwerk Dresden",
-    "outdoor_seating": "yes",
-    "payment:cash": "yes",
-    "payment:contactless": "yes",
-    "payment:girocard": "yes",
-    "payment:studentcard": "yes",
-    "phone": "+49 351 4692561;+49 351 44722780",
-    "smoking": "no",
-    "start_date": "2011-05-16",
-    "toilets": "yes",
-    "toilets:access": "customers",
-    "toilets:handwashing": "yes",
-    "toilets:wheelchair": "yes",
-    "website": "https://www.studentenwerk-dresden.de/mensen/details-mensa-johannstadt.html",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 9139895595,
-  "lat": 51.8814627,
-  "lon": 11.0708287,
-  "tags": {
-    "addr:city": "Halberstadt",
-    "addr:housenumber": "14",
-    "addr:postcode": "38820",
-    "addr:street": "Quedlinburger Landstraße",
-    "amenity": "fast_food",
-    "cuisine": "chinese",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "drive_through": "no",
-    "name": "Dr. Wok",
-    "opening_hours": "Mo-Sa 08:00-20:00; Su,PH off",
-    "phone": "+49 3941 5763810",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 9140808707,
   "lat": 51.4929765,
   "lon": 11.9715732,
@@ -12909,6 +12253,7 @@
     "diet:vegetarian": "yes",
     "name": "JUICY",
     "opening_hours": "Mo-Su 10:00-21:00"
+<<<<<<< HEAD
   }
 },
 {
@@ -12930,6 +12275,8 @@
     "opening_hours": "Mo - Sa 10-20 Uhr",
     "phone": "+49361601320",
     "takeaway": "yes"
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   }
 },
 {
@@ -12957,62 +12304,183 @@
 },
 {
   "type": "node",
-  "id": 9237641858,
-  "lat": 51.7621484,
-  "lon": 10.6693801,
+  "id": 9261469165,
+  "lat": 51.5051126,
+  "lon": 11.8766096,
   "tags": {
-    "addr:city": "Wernigerode",
-    "addr:housenumber": "10",
-    "addr:postcode": "38879",
-    "addr:street": "Alte Dorfstraße",
-    "amenity": "restaurant",
-    "cuisine": "italian",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "internet_access": "wlan",
-    "internet_access:fee": "no",
-    "internet_access:ssid": "MontevinoGast",
-    "name": "Montevino",
-    "opening_hours": "Mo-Fr 15:30-22:00; Sa-Su 14:30-22:00",
-    "opening_hours:covid19": "open",
-    "phone": "+49 39455 588340",
-    "website": "https://montevino.pizza",
-    "wheelchair": "yes"
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "12",
+    "addr:postcode": "06120",
+    "addr:street": "Röntgenstraße",
+    "name": "Classic Hair & Beauty Lounge",
+    "phone": "+49 3 45 5 51 17 83",
+    "shop": "hairdresser",
+    "vegan": "friendly"
   }
 },
 {
   "type": "node",
-  "id": 9241585222,
-  "lat": 51.3486368,
-  "lon": 12.4776915,
+  "id": 9261473487,
+  "lat": 51.4527620,
+  "lon": 11.9784849,
   "tags": {
-    "addr:city": "Leipzig",
-    "addr:country": "DE",
-    "addr:housename": "Paunsdorf Center",
-    "addr:housenumber": "1",
-    "addr:postcode": "04329",
-    "addr:street": "Paunsdorfer Allee",
-    "alt_name": "Dunkin' Donuts",
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "44",
+    "addr:postcode": "06130",
+    "addr:street": "Am Breiten Pfuhl",
+    "name": "Amme Cornelia Friseursalon",
+    "phone": "+49 3 45 1 22 16 35",
+    "shop": "hairdresser",
+    "vegan": "friendly"
+  }
+},
+{
+  "type": "node",
+  "id": 9261675833,
+  "lat": 51.4813732,
+  "lon": 11.9589856,
+  "tags": {
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "15",
+    "addr:postcode": "06108",
+    "addr:street": "Mansfelder Straße",
+    "name": "Friseursalon Andrea Hinze",
+    "operator": "Andrea Hinze",
+    "phone": "+49 3 45 2 03 68 71",
+    "shop": "hairdresser",
+    "vegan": "friendly"
+  }
+},
+{
+  "type": "node",
+  "id": 9261788412,
+  "lat": 51.4759688,
+  "lon": 11.9153805,
+  "tags": {
+    "name": "Haarstudio Heike",
+    "phone": "+49 3 45 6 80 15 25",
+    "shop": "hairdresser",
+    "vegan": "friendly"
+  }
+},
+{
+  "type": "node",
+  "id": 9261789811,
+  "lat": 51.4478008,
+  "lon": 11.9585373,
+  "tags": {
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "90",
+    "addr:postcode": "06128",
+    "addr:street": "Südstadtring",
+    "name": "Frisör Klier GmbH Kaufland",
+    "phone": "+49 3 45 1 21 14 60",
+    "shop": "hairdresser",
+    "vegan": "friendly"
+  }
+},
+{
+  "type": "node",
+  "id": 9261825700,
+  "lat": 51.4601221,
+  "lon": 11.9656240,
+  "tags": {
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "35",
+    "addr:postcode": "06110",
+    "addr:street": "Finkenweg",
+    "contact:email": "schnittstelle-derfriseur@gmx.de",
+    "contact:facebook": "https://www.facebook.com/SchnittstelleHalle/",
+    "name": "Schnittstelle Friseurfachgeschäft",
+    "payment:cash": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+49 3 45 1 22 73 99",
+    "shop": "hairdresser",
+    "smoking:outside": "yes",
+    "vegan": "friendly",
+    "website": "https://www.facebook.com/SchnittstelleHalle/"
+  }
+},
+{
+  "type": "node",
+  "id": 9261839535,
+  "lat": 51.4697900,
+  "lon": 11.9263540,
+  "tags": {
+    "name": "Scorna und Schenk GbR",
+    "phone": "+49 3 45 6 90 27 87",
+    "shop": "hairdresser",
+    "vegan": "friendly"
+  }
+},
+{
+  "type": "node",
+  "id": 9261848291,
+  "lat": 51.4695174,
+  "lon": 11.9795456,
+  "tags": {
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "35",
+    "addr:postcode": "06110",
+    "addr:street": "Turmstraße",
+    "name": "Stilart Ihr Friseur",
+    "phone": "+49 3 45 4 72 17 77",
+    "shop": "hairdresser",
+    "vegan": "friendly"
+  }
+},
+{
+  "type": "node",
+  "id": 9343768547,
+  "lat": 51.4951686,
+  "lon": 11.9659886,
+  "tags": {
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "38",
+    "addr:postcode": "06114",
+    "addr:street": "Händelstraße",
     "amenity": "fast_food",
-    "brand": "Dunkin' Donuts",
-    "brand:wikidata": "Q847743",
-    "brand:wikipedia": "en:Dunkin' Donuts",
-    "contact:website": "https://www.dunkin-donuts.de",
-    "cuisine": "donut;coffee_shop",
+    "brand": "Domino's",
+    "brand:wikidata": "Q839466",
+    "brand:wikipedia": "en:Domino's Pizza",
+    "cuisine": "pizza",
     "diet:vegan": "yes",
-    "level": "0",
-    "name": "Dunkin' Donuts",
-    "name:ja": "ダンキンドーナツ",
-    "opening_hours": "Mo-Sa 09:30-20:00; Su off",
+    "diet:vegetarian": "yes",
+    "drive_through": "no",
+    "name": "Domino's",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "phone": "+49 345 530130",
+    "takeaway": "yes",
+    "website": "https://www.dominos.de/kaufhaus/de-hallereileck-33831",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9572703189,
+  "lat": 51.4843564,
+  "lon": 11.9695742,
+  "tags": {
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "58",
+    "addr:postcode": "06108",
+    "addr:street": "Große Ulrichtsraße",
+    "amenity": "fast_food",
+    "contact:instagram": "https://www.instagram.com/bowlsking/",
+    "delivery": "yes",
+    "diet:vegan": "limited",
+    "diet:vegetarian": "yes",
+    "name": "Bowls King",
     "takeaway": "yes"
   }
 },
 {
   "type": "node",
-  "id": 9250985635,
-  "lat": 51.3629733,
-  "lon": 12.3641872,
+  "id": 9572733602,
+  "lat": 51.4929347,
+  "lon": 11.9716439,
   "tags": {
+<<<<<<< HEAD
     "addr:city": "Leipzig",
     "addr:housenumber": "86",
     "addr:postcode": "04155",
@@ -13205,18 +12673,27 @@
     "amenity": "fast_food",
     "capacity": "3",
     "cuisine": "kebab",
+=======
+    "addr:city": "Halle (Saale)",
+    "addr:housenumber": "62",
+    "addr:postcode": "06108",
+    "addr:street": "Ludwig-Wucherer-Straße",
+    "amenity": "ice_cream",
+    "contact:email": "info@eisdeal.de",
+    "contact:facebook": "https://www.facebook.com/eisdeal.de",
+    "contact:instagram": "https://www.instagram.com/eisdealerhalle",
+    "contact:website": "https://www.eisdeal.de",
+    "cuisine": "ice_cream",
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
     "delivery": "no",
     "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "drive_through": "no",
-    "level": "0",
-    "name": "Green Bistro",
-    "opening_hours": "Mo-Sa 10:30-23:00; So 11:30-22:00; PH 11:30-22:00",
+    "diet:vegetarian": "only",
+    "name": "Eis-Dealer",
+    "opening_hours": "12:00-18:00",
     "outdoor_seating": "no",
-    "phone": "+49 361 55066790",
-    "start_date": "2021-12-01",
     "takeaway": "yes",
-    "wheelchair": "yes"
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
   }
 },
 {
@@ -13438,112 +12915,6 @@
 },
 {
   "type": "way",
-  "id": 23030130,
-  "center": {
-    "lat": 51.0418528,
-    "lon": 13.7515623
-  },
-  "nodes": [
-    2638485406,
-    3871956721,
-    2638485405,
-    3871956718,
-    2638485403,
-    248463617,
-    3871956710,
-    3729025832,
-    3871956713,
-    248463618,
-    2638485406
-  ],
-  "tags": {
-    "addr:city": "Dresden",
-    "addr:country": "DE",
-    "addr:housenumber": "11",
-    "addr:postcode": "01069",
-    "addr:street": "Lennéstraße",
-    "amenity": "restaurant",
-    "building": "yes",
-    "building:colour": "yellow",
-    "building:levels": "1",
-    "building:material": "sandstone",
-    "building:part": "yes",
-    "contact:facebook": "https://www.facebook.com/Torwirtschaft-der-Biergarten-f%C3%BCr-alle-Dynamofans-168677023169963/",
-    "cuisine": "german;international;regional;tarte_flambee",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "email": "info@torwirtschaft-dresden.de",
-    "height": "5.7",
-    "image": "https://commons.wikimedia.org/wiki/File:Torhaus_S_Grosser_Garten_Dresden-2.jpg",
-    "internet_access": "wlan",
-    "internet_access:fee": "no",
-    "name": "Torwirtschaft",
-    "opening_hours": "11:00+",
-    "outdoor_seating": "yes",
-    "payment:maestro": "yes",
-    "phone": "+49 351 4595200",
-    "roof:colour": "#BA7F6D",
-    "roof:height": "1.8",
-    "roof:levels": "1",
-    "roof:material": "roof_tiles",
-    "roof:shape": "quadruple_saltbox",
-    "toilets": "yes",
-    "toilets:wheelchair": "no",
-    "website": "https://www.torwirtschaft-dresden.de/torwirtschaft/",
-    "wheelchair": "no",
-    "wheelchair:description:de": "Stufen am Eingang, Stufen zur Toilette"
-  }
-},
-{
-  "type": "way",
-  "id": 23030131,
-  "center": {
-    "lat": 51.0425290,
-    "lon": 13.7522292
-  },
-  "nodes": [
-    248463619,
-    248463620,
-    3871325124,
-    3871325123,
-    248463621,
-    248463622,
-    3871325121,
-    373407710,
-    3871325122,
-    248463619
-  ],
-  "tags": {
-    "addr:city": "Dresden",
-    "addr:country": "DE",
-    "addr:housenumber": "9",
-    "addr:postcode": "01069",
-    "addr:street": "Lennéstraße",
-    "amenity": "biergarten",
-    "building": "yes",
-    "building:levels": "1",
-    "building:material": "sandstone",
-    "building:part": "yes",
-    "contact:email": "info@wachstube-dresden.de",
-    "contact:facebook": "https://www.facebook.com/Wachstube-im-Gro%C3%9Fen-Garten-Dresden-144180698984577/",
-    "contact:phone": "+49 351 4466975",
-    "contact:website": "https://www.torwirtschaft-dresden.de/wachstube/restaurant.php",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "height": "5.7",
-    "image": "https://commons.wikimedia.org/wiki/File:Torhaus_N_Grosser_Garten_Dresden-2.jpg",
-    "name": "Wachstube",
-    "opening_hours": "11:00+",
-    "roof:colour": "#BA7F6D",
-    "roof:height": "1.8",
-    "roof:material": "roof_tiles",
-    "roof:shape": "hipped",
-    "wheelchair": "no",
-    "wheelchair:description:de": "Zugang ins Gebäude nur über Stufen"
-  }
-},
-{
-  "type": "way",
   "id": 27177218,
   "center": {
     "lat": 51.4869272,
@@ -13584,6 +12955,7 @@
 },
 {
   "type": "way",
+<<<<<<< HEAD
   "id": 28143594,
   "center": {
     "lat": 51.3393846,
@@ -13672,6 +13044,8 @@
 },
 {
   "type": "way",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 32804265,
   "center": {
     "lat": 51.4799460,
@@ -13704,6 +13078,7 @@
 },
 {
   "type": "way",
+<<<<<<< HEAD
   "id": 37226164,
   "center": {
     "lat": 50.6847192,
@@ -13808,6 +13183,8 @@
 },
 {
   "type": "way",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 47571137,
   "center": {
     "lat": 51.4574074,
@@ -13893,6 +13270,7 @@
 },
 {
   "type": "way",
+<<<<<<< HEAD
   "id": 65739613,
   "center": {
     "lat": 51.3289622,
@@ -13963,6 +13341,8 @@
 },
 {
   "type": "way",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 98848040,
   "center": {
     "lat": 51.5318140,
@@ -14005,6 +13385,7 @@
 },
 {
   "type": "way",
+<<<<<<< HEAD
   "id": 101363031,
   "center": {
     "lat": 51.8336830,
@@ -14198,6 +13579,8 @@
 },
 {
   "type": "way",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 120082234,
   "center": {
     "lat": 51.4932826,
@@ -14240,6 +13623,7 @@
 },
 {
   "type": "way",
+<<<<<<< HEAD
   "id": 122371942,
   "center": {
     "lat": 50.8005355,
@@ -14359,6 +13743,8 @@
 },
 {
   "type": "way",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 128558823,
   "center": {
     "lat": 51.4884586,
@@ -14396,45 +13782,6 @@
     "smoking": "separated",
     "takeaway": "yes",
     "wheelchair": "no"
-  }
-},
-{
-  "type": "way",
-  "id": 130121283,
-  "center": {
-    "lat": 51.0806991,
-    "lon": 14.5218888
-  },
-  "nodes": [
-    1434176497,
-    1434176495,
-    1434176496,
-    6431604769,
-    279685521,
-    1434176497
-  ],
-  "tags": {
-    "addr:city": "Beiersdorf",
-    "addr:country": "DE",
-    "addr:housenumber": "18",
-    "addr:postcode": "02736",
-    "addr:street": "Bielebohstraße",
-    "amenity": "restaurant",
-    "brewery": "yes",
-    "building": "yes",
-    "contact:email": "info@bieleboh.de",
-    "contact:facebook": "https://www.facebook.com/Bieleboh/",
-    "contact:fax": "+49 35872 36399",
-    "contact:instagram": "https://www.instagram.com/bieleboh/",
-    "contact:phone": "+49 35872 18914",
-    "contact:website": "https://www.bieleboh.de/gastronomie/restaurant/",
-    "crane:mobile": "+49 174 3039784",
-    "cuisine": "international",
-    "diet:vegan": "yes",
-    "name": "Naturresort Bieleboh",
-    "opening_hours": "We-Su,PH 11:00-22:00; Mo,Tu off",
-    "outdoor_seating": "yes",
-    "tourism": "guest_house"
   }
 },
 {
@@ -14486,6 +13833,7 @@
 },
 {
   "type": "way",
+<<<<<<< HEAD
   "id": 134575546,
   "center": {
     "lat": 51.8827583,
@@ -14743,6 +14091,8 @@
 },
 {
   "type": "way",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 164756625,
   "center": {
     "lat": 51.4945584,
@@ -14964,6 +14314,7 @@
 },
 {
   "type": "way",
+<<<<<<< HEAD
   "id": 197836017,
   "center": {
     "lat": 50.6802683,
@@ -15290,6 +14641,8 @@
 },
 {
   "type": "way",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 255017911,
   "center": {
     "lat": 51.2814207,
@@ -15369,6 +14722,7 @@
 },
 {
   "type": "way",
+<<<<<<< HEAD
   "id": 285316788,
   "center": {
     "lat": 51.6084740,
@@ -15491,6 +14845,8 @@
 },
 {
   "type": "way",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 304682735,
   "center": {
     "lat": 51.4779569,
@@ -15537,6 +14893,7 @@
 },
 {
   "type": "way",
+<<<<<<< HEAD
   "id": 325709763,
   "center": {
     "lat": 51.0643659,
@@ -15676,6 +15033,8 @@
 },
 {
   "type": "way",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 375345326,
   "center": {
     "lat": 51.4893364,
@@ -15714,6 +15073,7 @@
 },
 {
   "type": "way",
+<<<<<<< HEAD
   "id": 377887890,
   "center": {
     "lat": 51.0401673,
@@ -15957,6 +15317,8 @@
 },
 {
   "type": "way",
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
   "id": 467769739,
   "center": {
     "lat": 51.4973787,
@@ -15992,6 +15354,7 @@
     "wheelchair": "limited",
     "wheelchair:description": "Eingang mit Rampe, kein behindertengerechtes WC"
   }
+<<<<<<< HEAD
 },
 {
   "type": "way",
@@ -16363,6 +15726,8 @@
     "opening_hours:signed": "no",
     "wheelchair": "limited"
   }
+=======
+>>>>>>> 439553ddc2a5d8a79e92f02008c51251b1b31042
 }
 
   ]
