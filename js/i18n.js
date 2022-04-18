@@ -33,7 +33,7 @@ function setUserLanguage(language) {
 function getUserLanguage() {
   // 1. If set, take language from URL paramter
   // 2. Else take browser language
-  // 3. If the taken language isn't one of the translated, return English 
+  // 3. If the taken language isn't one of the translated, return English
 
   if (userLanguage == undefined) {
     // Get language from URL
@@ -197,6 +197,10 @@ function updateContent() {
   document.getElementsByClassName('legendRow')[3].parentElement.parentElement.title = i18next.t('texts.i18n_vegan_limited_title');
   //document.getElementsByClassName('secondCell')[4].innerText = i18next.t('texts.i18n_vegetarian_friendly');
   //document.getElementsByClassName('legendRow')[4].parentElement.parentElement.title = i18next.t('texts.i18n_vegetarian_friendly_title');
+  document.getElementsByClassName('secondCell')[4].innerText = i18next.t('texts.i18n_vegan_hairdresser_only');
+  document.getElementsByClassName('legendRow')[4].parentElement.parentElement.title = i18next.t('texts.i18n_vegan_hairdresser_only_title');
+  document.getElementsByClassName('secondCell')[5].innerText = i18next.t('texts.i18n_vegan_hairdresser_friendly');
+  document.getElementsByClassName('legendRow')[5].parentElement.parentElement.title = i18next.t('texts.i18n_vegan_hairdresser_friendly');
 
   // Set HTML lang attribut
   document.body.parentElement.lang = i18next.language;

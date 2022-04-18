@@ -14,6 +14,10 @@ export function getIcon(symbol, category) {
     var icon_color = black_icon_color;
   } else if (category == "vegetarian_friendly") {
     var icon_color = black_icon_color;
+  } else if (category == "vegan_hairdresser_only") {
+    var icon_color = white_icon_color;
+  } else if (category == "vegan_hairdresser_friendly") {
+    var icon_color = black_icon_color;
   }
 
   /* Check if it's a maki or osm-carto icon */

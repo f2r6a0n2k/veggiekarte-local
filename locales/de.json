@@ -25,7 +25,11 @@
         "i18n_vegan_limited": "eingeschränkt vegan",
         "i18n_vegan_limited_title": "Ort mit eingeschränktem veganen Angebot (in der Regel heißt das, dass du danach fragen musst und es nicht eindeutig aus der Karte hervorgeht).",
         "i18n_vegetarian_friendly": "vegetarisch-freundlich",
-        "i18n_vegetarian_friendly_title": "Ort mit vegetarischem, aber keinem veganen Angebot."
+        "i18n_vegetarian_friendly_title": "Ort mit vegetarischem, aber keinem veganen Angebot.",
+        "i18n_vegan_hairdresser_only": "vegane Friseur*innen",
+        "i18n_vegan_hairdresser_only_title": "Ort mit nur veganen Angeboten.",
+        "i18n_vegan_hairdresser_friendly": "vegan-freundliche Friseur*innen",
+        "i18n_vegan_hairdresser_friendly_title": "Ort der auch vegane Angebote hat."
       },
       "words": {
         "open": "geöffnet",

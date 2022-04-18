@@ -35,6 +35,8 @@ function getValues(element) {
     dataVegetarianOnly.push(element.n_vegetarian_only);
     dataVeganFriendly.push(element.n_vegan_friendly);
     dataVeganLimited.push(element.n_vegan_limited);
+    dataVeganHairdresserOnly.push(element.n_vegan_hairdresser_only);
+    dataVeganHairdresserFriendly.push(element.n_vegan_hairdresser_friendly);
     lastElementDate = currentElementDate;
   }
 }
@@ -70,6 +72,18 @@ function buildConfig() {
         backgroundColor: 'Orange',
         data: dataVeganLimited,
         fill: false
+      }, {
+        label: 'vegan hairdresser only',
+        borderColor: 'DarkGreen',
+        backgroundColor: 'DarkGreen',
+        data: dataVeganHairdresserOnly,
+        fill: false
+      }, {
+        label: 'vegan friendly hairdresser',
+        borderColor: 'SkyBlue  ',
+        backgroundColor: 'SkyBlue  ',
+        data: dataVeganHairdresserFriendly,
+        fill: false
       }]
     }
   };
@@ -90,6 +104,8 @@ let dataVeganFriendly = [];
 let dataVeganLimited = [];
 let dataVeganOnly = [];
 let dataVegetarianOnly = [];
+let dataVeganHairdresserOnly = [];
+let dataVeganHairdresserFriendly = [];
 let lastElementDate = new Date();
 
 

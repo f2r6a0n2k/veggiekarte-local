@@ -15,11 +15,13 @@ import urllib3
 HTTP = urllib3.PoolManager()
 
 FILTERS = {
-    "n_vegan_only": "diet:vegan=only",
     "n_vegetarian_only": "diet:vegan=yes and diet:vegetarian=only",
+    "n_vegetarian_friendly": "diet:vegetarian in (only,yes) and not diet:vegan in (only,yes,limited)",
+    "n_vegan_only": "diet:vegan=only",
     "n_vegan_friendly": "diet:vegan=yes and diet:vegetarian!=only",
     "n_vegan_limited": "diet:vegan=limited",
-    "n_vegetarian_friendly": "diet:vegetarian in (only,yes) and not diet:vegan in (only,yes,limited)",
+    "n_vegan_hairdresser_friendly": "vegan=friendly",
+    "n_vegan_hairdresser_only": "vegan=yes and vegan=only"
 }
 
 OHSOME_URL = "https://api.ohsome.org/v1/elements/count"

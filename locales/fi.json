@@ -25,7 +25,11 @@
         "i18n_vegan_limited": "rajoitetusti vegaanista",
         "i18n_vegan_limited_title": "Paikka, jossa on vain rajoitetusti saatavilla vegaanista ruokaa (usein sitä on pyydettävä erikseen listan ulkopuolelta).",
         "i18n_vegetarian_friendly": "kasvissyöjäystävällinen",
-        "i18n_vegetarian_friendly_title": "Paikka, joka tarjoaa myös kasvisruokaa mutta ei vegaanista."
+        "i18n_vegetarian_friendly_title": "Paikka, joka tarjoaa myös kasvisruokaa mutta ei vegaanista.",
+        "i18n_vegan_hairdresser_only": "vegan hairdresser",
+        "i18n_vegan_hairdresser_only_title": "Place which offers exclusively vegan Shampoo.",
+        "i18n_vegan_hairdresser_friendly": "vegan friendly hairdresser",
+        "i18n_vegan_hairdresser_friendly_title": "Place which offers vegan Shampoo."
       },
       "words": {
         "open": "auki",

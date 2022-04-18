@@ -108,6 +108,14 @@ body {
   background: #fefefe;
   border-color: DarkGreen;
 }
+.vegan_hairdresser_only {
+  background: #005500;
+  border-color: #117722;
+}
+.vegan_hairdresser_friendly {
+  background: #00bc00;
+  border-color: #00bc00;
+}
 
 /* Layer button: Adjust the size to the other buttons. */
 .leaflet-control-layers-toggle {

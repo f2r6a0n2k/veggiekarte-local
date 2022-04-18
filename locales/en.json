@@ -25,7 +25,11 @@
         "i18n_vegan_limited": "vegan limited",
         "i18n_vegan_limited_title": "Place with limited vegan offer (often you have to ask for it outside the menu).",
         "i18n_vegetarian_friendly": "vegetarian friendly",
-        "i18n_vegetarian_friendly_title": "Place which offers also vegetarian food, but no vegan."
+        "i18n_vegetarian_friendly_title": "Place which offers also vegetarian food, but no vegan.",
+        "i18n_vegan_hairdresser_only": "vegan hairdresser",
+        "i18n_vegan_hairdresser_only_title": "Place which offers exclusively vegan Shampoo.",
+        "i18n_vegan_hairdresser_friendly": "vegan friendly hairdresser",
+        "i18n_vegan_hairdresser_friendly_title": "Place which offers vegan Shampoo."
       },
       "words": {
         "open": "open",

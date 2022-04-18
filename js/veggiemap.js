@@ -19,7 +19,9 @@ let vegan_only = L.featureGroup.subGroup(parentGroup, {});
 let vegetarian_only = L.featureGroup.subGroup(parentGroup, {});
 let vegan_friendly = L.featureGroup.subGroup(parentGroup, {});
 let vegan_limited = L.featureGroup.subGroup(parentGroup, {});
-let subgroups = { vegan_only, vegetarian_only, vegan_friendly, vegan_limited };
+let vegan_hairdresser_only = L.featureGroup.subGroup(parentGroup, {});
+let vegan_hairdresser_friendly = L.featureGroup.subGroup(parentGroup, {});
+let subgroups = { vegan_only, vegetarian_only, vegan_friendly, vegan_limited, vegan_hairdresser_only, vegan_hairdresser_friendly };
 
 let map;
 let layerControl;
@@ -51,7 +53,9 @@ function veggiemap() {
     "<div class='legendRow'><div class='firstCell vegan_only'></div><div class='secondCell'></div><div class='thirdCell' id='n_vegan_only'></div></div>": vegan_only,
     "<div class='legendRow'><div class='firstCell vegetarian_only'></div><div class='secondCell'></div><div class='thirdCell' id='n_vegetarian_only'></div></div>": vegetarian_only,
     "<div class='legendRow'><div class='firstCell vegan_friendly'></div><div class='secondCell'></div><div class='thirdCell' id='n_vegan_friendly'></div></div>": vegan_friendly,
-    "<div class='legendRow'><div class='firstCell vegan_limited'></div><div class='secondCell'></div><div class='thirdCell' id='n_vegan_limited'></div></div>": vegan_limited
+    "<div class='legendRow'><div class='firstCell vegan_limited'></div><div class='secondCell'></div><div class='thirdCell' id='n_vegan_limited'></div></div>": vegan_limited,
+    "<div class='legendRow'><div class='firstCell vegan_hairdresser_only'></div><div class='secondCell'></div><div class='thirdCell' id='n_vegan_hairdresser_only'></div></div>": vegan_hairdresser_only,
+    "<div class='legendRow'><div class='firstCell vegan_hairdresser_friendly'></div><div class='secondCell'></div><div class='thirdCell' id='n_vegan_hairdresser_friendly'></div></div>": vegan_hairdresser_friendly
   };
 
   veggiemap_populate(parentGroup);
