@@ -80,7 +80,7 @@ GET_MORE_INFO = [
     2791600302,  # Hotdog King
     3052291182,  # Seoul Kulinarisch
     1037236274,  # Anh Asia
-    164756646,   # SPICY
+    164756646,   # Nice
     8773861578,  # JUICY - Reileck
     9140808707,  # JUICY - LuWu
     7388445891,  # City Döner
@@ -243,7 +243,7 @@ def get_osm_data():
                       "area['de:amtlicher_gemeindeschluessel'='15088']->.saalekreis;"\
                       "(.halle;.saalekreis;)->.searchArea;"
     # # Collect the vegan nodes, ways and relations
-    overpass_query += "(nwr(area.searchArea)['diet:vegan'~'yes|only|limited'];nwr(area.searchArea)['vegan'~'yes|only|friendly'];);"
+    overpass_query += "nwr(area.searchArea)['diet:vegan'~'yes|only|limited'];"
     # # End of the query and use "out center" to reduce the geometry of ways and relations to a single coordinate
     overpass_query += "out+center;"
 
@@ -361,20 +361,11 @@ def write_data(data):
         if tags.get("diet:vegan", "") == "only":
             place_obj["properties"]["category"] = "vegan_only"
             n_vegan_only += 1
-        if tags.get("vegan", "") == "only":
-            place_obj["properties"]["category"] = "vegan_only"
-            n_vegan_only += 1
         elif (tags.get("diet:vegetarian", "") == "only"
               and tags.get("diet:vegan", "") == "yes"):
             place_obj["properties"]["category"] = "vegetarian_only"
             n_vegetarian_only += 1
         elif tags.get("diet:vegan", "") == "yes":
-            place_obj["properties"]["category"] = "vegan_friendly"
-            n_vegan_friendly += 1
-        elif tags.get("vegan", "") == "yes":
-            place_obj["properties"]["category"] = "vegan_friendly"
-            n_vegan_friendly += 1
-        elif tags.get("vegan", "") == "friendly":
             place_obj["properties"]["category"] = "vegan_friendly"
             n_vegan_friendly += 1
         elif tags.get("diet:vegan", "") == "limited":
